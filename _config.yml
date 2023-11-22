@@ -16,6 +16,14 @@ include: ['_2016_pages', '_2017_pages', '_2024_pages']
 
 languages: ["en", "es"]
 
+exclude_from_localizations: ["assets", "CNAME"]
+
+defaultLang: en
+
+languageNames:
+  en: English
+  es: Español
+
 default_locale_in_subfolder: true
 
 plugins:
