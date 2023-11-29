@@ -247,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -302,8 +302,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar-header {
+.navbar:not(.navbar-shrink) .navbar-header {
   visibility: hidden;
+}
+.navbar-shrink .navbar-header {
+  visibility: visible;
 }
 
 
@@ -353,7 +356,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     
-    filter: brightness(90%);
+    filter: brightness(80%);
     /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
