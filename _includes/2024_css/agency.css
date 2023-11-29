@@ -347,7 +347,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     
-    filter: brightness(80%);
+    filter: brightness(90%);
     /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
@@ -367,7 +367,7 @@ header .intro-text .intro-lead-in {
     font-style: italic;
     line-height: 22px;
 
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
 header .intro-text .intro-heading {
