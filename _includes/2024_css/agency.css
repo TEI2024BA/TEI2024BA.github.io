@@ -348,7 +348,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2024_style/img/header-bg.jpeg');
+    background-image: url('{{ site.baseurl }}/css/2024_style/img/header-bg2.jpeg');
+    /* background-image: url('http://www.gettyimages.com/detail/559320699'); */
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -376,7 +377,7 @@ header .intro-text .intro-lead-in {
     font-style: italic;
     line-height: 22px;
 
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
 header .intro-text .intro-heading {
@@ -387,7 +388,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 75px;
 
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
 @media(min-width:768px) {    
