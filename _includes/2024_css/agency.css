@@ -347,7 +347,12 @@ header {
     background-size: cover;
     -o-background-size: cover;
     
-    filter: brightness(50%)
+    filter: brightness(80%);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+header * {
+  filter: none;
 }
 
 header .intro-text {
