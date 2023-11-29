@@ -346,6 +346,8 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    
+    filter: brightness(50%)
 }
 
 header .intro-text {
