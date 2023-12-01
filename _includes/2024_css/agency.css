@@ -348,7 +348,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2024_style/img/header-bg2.jpeg');
+    background-image: url('{{ site.baseurl }}/css/2024_style/img/header-bg2.jpg');
     /* background-image: url('http://www.gettyimages.com/detail/559320699'); */
     background-position: center center;
     background-repeat: none;
