@@ -25,7 +25,7 @@ languageNames:
   en: English
   es: Español
 
-default_locale_in_subfolder: true
+default_locale_in_subfolder: false
 
 plugins:
   - jekyll-sitemap
@@ -42,3 +42,8 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude: 
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
