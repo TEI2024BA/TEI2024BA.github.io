@@ -12,11 +12,11 @@ logo: "../css/2024_style/img/icon-large.png"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages', '_2024_pages']
+include: ['_2024_pages']
 
 languages: ["en", "es"]
 
-exclude_from_localizations: ["assets", "CNAME"]
+exclude_from_localizations: ["css"]
 
 defaultLang: en
 

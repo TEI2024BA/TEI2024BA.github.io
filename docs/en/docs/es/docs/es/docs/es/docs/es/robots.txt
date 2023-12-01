@@ -1,0 +1,4 @@
+Sitemap: tei2024ba.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /css
