@@ -950,3 +950,10 @@ body {
     webkit-tap-highlight-color: #3cb371;
 }
 
+/*  TEI  */
+ul.dropdown-menu {
+    background: #222;
+    text-align: center;
+}
+    
+

@@ -17,7 +17,7 @@ include: ['_2024_pages']
 
 languages: ["en", "es"]
 
-exclude_from_localizations: ["css"]
+exclude_from_localizations: ["css", "base.html"]
 
 defaultLang: en
 

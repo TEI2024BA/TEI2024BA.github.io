@@ -1,0 +1,26 @@
+<li>
+    <!-- <a class="dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+        {{ site.languageNames[site.lang] }}
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="languageDropdown" >
+        {% for lang in site.languages %}
+            {% if lang == site.lang %} {% continue %} {% endif %}
+            {% if lang == site.default_lang %}
+                <a class="dropdown-item" href="{{ page.url }}">{{site.languageNames[lang]}}</a>
+            {% else %}
+                <a class="dropdown-item" href="/{{ lang }}{{ page.url }}">{{site.languageNames[lang]}}</a>
+            {% endif %}
+        {% endfor %}
+    </ul> -->
+    
+    {% for lang in site.languages %}
+        {% if lang != site.lang %}
+            {% if lang == site.default_lang %}
+            <a class="page-scroll" href="{{ page.url }}">{{site.languageNames[lang]}}</a>
+            {% else %}
+            <a class="page-scroll" href="/{{ lang }}{{ page.url }}">{{site.languageNames[lang]}}</a>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    
+</li>
