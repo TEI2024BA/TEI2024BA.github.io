@@ -43,7 +43,12 @@ social:
 markdown: kramdown
 permalink: pretty
 
-exclude: 
-  - build.sh
+exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - build.sh
