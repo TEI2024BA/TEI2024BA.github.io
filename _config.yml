@@ -1,4 +1,5 @@
 title: TEI 2024 Buenos Aires
+destination: ./docs
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,7 +8,7 @@ url: "tei2024ba.github.io" # the base hostname & protocol for your site
 markdown: kramdown
 
 
-logo: "../css/2024_style/img/icon-large.png"
+logo: "/css/2024_style/img/icon-large.png"
 
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
