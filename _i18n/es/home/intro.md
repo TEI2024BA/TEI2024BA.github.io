@@ -2,4 +2,4 @@
 
 Este congreso busca destacar el alcance global de la TEI, de la mano de sus adaptaciones locales. Aspira así a ser un evento que nos interpele como comunidad diversa y multilingüe, donde el intercambio de experiencias y el aprendizaje compartido nos permitan reflexionar sobre los textos que investigamos, las lenguas que usamos y las comunidades que creamos.
 
-Proponemos cinco días de trabajo en la [Universidad del Salvador] (https://www.usal.edu.ar/) en los que dedicaremos los días 7 y 8 de octubre al dictado de talleres iniciales y avanzados sobre edición y publicación de textos con TEI, y los días 9, 10 y 11 para sesiones de conferencias plenarias, presentaciones y demos. 
+Proponemos cinco días de trabajo en la [Universidad del Salvador](https://www.usal.edu.ar/) en los que dedicaremos los días 7 y 8 de octubre al dictado de talleres iniciales y avanzados sobre edición y publicación de textos con TEI, y los días 9, 10 y 11 para sesiones de conferencias plenarias, presentaciones y demos. 
