@@ -1,3 +1,8 @@
+---
+layout: 2024_default
+permalink: /2024/team
+title: Team 
+---
 ##Local Organizers
 Gimena del Rio Riande (IIBICRIT, CONICET-Universidad del Salvador)
 Alicia Martin (Universidad del Salvador)
