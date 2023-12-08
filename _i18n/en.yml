@@ -1,6 +1,7 @@
 navbar:
   speakers: Speakers
   about: About
+  team: Team
   contact: Contact
 homebody:
   welcome: Welcome to TEI 2024!
