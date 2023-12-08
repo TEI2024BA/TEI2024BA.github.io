@@ -10,7 +10,7 @@ title: Team
 
   <!-- this section wraps the team members as a container-->
   <section class="cf team-container team-container-top black-frame">
-    <h1 class="team-h1">Local Organizers</h1>
+    <h1 class="team-h1">{% t team.local %}</h1>
   
     {% for team in site.data.twenty_24.teams-local %}
     <div class="team-member">
@@ -23,7 +23,7 @@ title: Team
   </section>
 
   <section class="cf team-container team-container-top black-frame">
-    <h1 class="team-h1">Program Committee</h1>
+    <h1 class="team-h1">{% t team.pc %}</h1>
   
     {% for team in site.data.twenty_24.teams-pc %}
     <div class="team-member">
