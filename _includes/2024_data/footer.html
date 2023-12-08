@@ -17,18 +17,19 @@ footer {
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
-            </div>
+          <div class="col-md-4">
+            <span class="copyright"><i class="fa fa-creative-commons"></i> The content of the website is under a CC-BY Licence: Text Encoding Initiative, 2023 .</span>
+          </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
                     {% for network in site.social %}
-                        <li><a href="https://www.facebook.com/groups/TEIconsortium/"><i class="fa fa-{{facebook}}"></i></a></li>
-                        <li><a href="https://twitter.com/TEIconsortium"><i class="fa fa-{{X}}"></i></a></li>
-                        
+                      <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
                     {% endfor %}
                 </ul>
             </div>
+            <div class="col-md-3">
+              Jekyll theme adapted from <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
+          </div>
         </div>
     </div>
 </footer>

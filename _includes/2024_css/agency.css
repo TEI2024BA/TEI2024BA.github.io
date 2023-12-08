@@ -954,3 +954,7 @@ ul.dropdown-menu {
   vertical-align: middle;
   float: none;
 }
+
+.logo-sponsors {
+  max-height: 150px;
+}
