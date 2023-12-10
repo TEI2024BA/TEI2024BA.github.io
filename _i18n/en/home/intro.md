@@ -4,3 +4,5 @@ This conference aims at highlighting the global outreach of the TEI together wit
     
 The conference will be held in-person at [Universidad del Salvador](https://www.google.com/maps/place/Universidad+del+Salvador+-+Rectorado/@-34.6013439,-58.3941206,17z/data=!3m1!4b1!4m6!3m5!1s0x95bccbbceb753a91:0xe6208305d17821e1!8m2!3d-34.6013439!4d-58.3915457!16zL20vMDkwbV92?authuser=6&entry=ttu), 7-11 October 2024. Pre-conference workshops will run on the 7-8 October, with the conference opening and running for the 9-11 October.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.111422905761!2d-58.39412062513363!3d-34.60134387295506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccbbceb753a91%3A0xe6208305d17821e1!2sUniversidad%20del%20Salvador%20-%20Rectorado!5e0!3m2!1sen!2sar!4v1702247155935!5m2!1sen!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="center"></iframe>
+
