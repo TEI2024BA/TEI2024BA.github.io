@@ -3,23 +3,15 @@ layout: 2024_default
 permalink: /2024/venue
 title: Venue
 ---
-    <!--background color-->
-    <script type="text/javascript">
-        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
-    </script>
+<!--background color-->
+<script type="text/javascript">
+    document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+</script>
+  
 
-    <div class="event black-frame">
-      <h1>{{ page.title }}</h1>
-
-      <p>Date<br>Venue</p>
-
-    <div class="venue-map">
-      <iframe src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=Space+Needle,Seattle+WA" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="black-frame about">
+    <h1 class="title">{% t navbar.venue %}</h1>
+    
+    {% tf pages/venue.md %}
     </div>
 
-      <p>Info</p>
-
-      <p>Address</p>
-
-      <p>Location</p>
-    </div>
