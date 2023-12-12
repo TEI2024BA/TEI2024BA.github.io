@@ -12,37 +12,10 @@
                 <a class="navbar-brand page-scroll" href="/">TEI 2024</a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="/"></a>
-                    </li>
-                    <!-- <li>
-                        <a class="page-scroll" href="../2024/#speakers">{% t navbar.speakers %}</a>
-                    </li> -->
-                    <li>
-                        <a class="page-scroll" href="../2024/agenda">Agenda</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../2024/#intro">{% t navbar.about %}</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../2024/team">{% t navbar.team %}</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../2024/venue">{% t navbar.venue %}</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="../2024/coc">{% t navbar.coc %}</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="contact">{% t navbar.contact %}</a>
-                    </li>
-                    {% include 2024_data/languageswitch.html %}
-                    
-                </ul>
-            </div>
+            {% include 2024_data/menu_navbar.html %}
+
+            
+            
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->

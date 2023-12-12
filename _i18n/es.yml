@@ -1,13 +1,15 @@
 navbar:
-  speakers: Conferencistas
   about: Acerca de
-  team: Equipo
-  contact: Contacto
-  venue: Lugar
+  city: Ciudad
   coc: Código de conducta
+  contact: Contacto
+  place: Lugar
+  speakers: Conferencistas
+  team: Equipo
+  venue: Sede
 homebody:
-  welcome: Bienvenidos a TEI 2024!
   more: Saber más
+  welcome: Bienvenidos a TEI 2024!
 soon: Muy pronto...
 team:
   local: Comisión Local Organizadora

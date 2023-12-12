@@ -1,13 +1,15 @@
 navbar:
-  speakers: Speakers
   about: About
-  team: Team
-  contact: Contact
-  venue: Venue
+  city: City
   coc: Code of Conduct
+  contact: Contact
+  place: Place
+  speakers: Speakers
+  team: Team
+  venue: Venue
 homebody:
-  welcome: Welcome to TEI 2024!
   more: Tell me more
+  welcome: Welcome to TEI 2024!
 soon: Coming Soon...
 team:
   local: Local Organizers
