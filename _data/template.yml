@@ -1,7 +1,7 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 00d94c 
-  secondary: 00d960
+  primary: 00d510  
+  secondary: 00e37f
   secondary-dark: 00283c
   muted: 777
 
@@ -12,5 +12,7 @@ font:
 
 
 
-
+  # 00d510 verde medio
   # 00c40f verde oscuro
+  # 00d94c verde + cyan claro
+  # 00e37f verde + cyanx2 +claro
