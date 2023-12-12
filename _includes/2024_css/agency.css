@@ -346,7 +346,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl_root }}/css/2024_style/img/header-bsas.jpg');
     /* background-image: url('http://www.gettyimages.com/detail/559320699'); */
@@ -928,7 +928,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: #f2f2f2;
+    background: #ebdcdc;
 }
 
 img::selection {
