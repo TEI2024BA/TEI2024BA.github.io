@@ -3,39 +3,34 @@
       <li class="hidden">
           <a href="/"></a>
       </li>
-      <!-- <li>
-          <a class="page-scroll" href="../2024/#speakers">{% t navbar.speakers %}</a>
-      </li> -->
       <li>
-          <a class="page-scroll" href="../2024/agenda">Agenda</a>
+          <a class="page-scroll" href="{% tl agenda %}">Agenda</a>
       </li>
-      <!-- <li>
-          <a class="page-scroll" href="../2024/#intro">{% t navbar.about %}</a>
-      </li> -->
       <li>
-          <a class="page-scroll" href="../2024/team">{% t navbar.team %}</a>
+          <a class="page-scroll" href="{% tl team %}">{% t navbar.team %}</a>
       </li>
-      <!-- <li>
-          <a class="page-scroll" href="../2024/venue">{% t navbar.venue %}</a>
-      </li> -->
       <li>
         <a class="dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
           {% t navbar.place %}
       </a>
       <ul class="dropdown-menu" aria-labelledby="languageDropdown" >
+        
         <li>
-          <a class="dropdown-item" href="../2024/city">{% t navbar.city %}</a>
+          <a class="dropdown-item" href="{% tl city %}">{% t navbar.city %}</a>
         </li>
         <li>
-          <a class="dropdown-item" href="../2024/venue">{% t navbar.venue %} (USAL)</a>
+          <a class="dropdown-item" href="{% tl venue %}">{% t navbar.venue %} (USAL)</a>
+        </li>  
+        <li>
+          <a class="dropdown-item" href="{% tl hotels %}">{% t navbar.hotels %}</a>
         </li>  
       </ul>
       </li>
       <li>
-          <a class="page-scroll" href="../2024/coc">{% t navbar.coc %}</a>
+          <a class="page-scroll" href="{% tl coc %}">{% t navbar.coc %}</a>
       </li>
       <li>
-          <a class="page-scroll" href="/contact">{% t navbar.contact %}</a>
+          <a class="page-scroll" href="{% tl contact %}">{% t navbar.contact %}</a>
       </li>
       {% include 2024_data/languageswitch.html %}
           
