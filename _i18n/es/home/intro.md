@@ -4,3 +4,4 @@ Este congreso busca destacar el alcance global de la TEI, de la mano de sus adap
 
 Proponemos cinco días de trabajo en la [Universidad del Salvador](https://www.google.com/maps/place/Universidad+del+Salvador+-+Rectorado/@-34.6013439,-58.3941206,17z/data=!3m1!4b1!4m6!3m5!1s0x95bccbbceb753a91:0xe6208305d17821e1!8m2!3d-34.6013439!4d-58.3915457!16zL20vMDkwbV92?authuser=6&entry=ttu) en los que dedicaremos los días 7 y 8 de octubre al dictado de talleres iniciales y avanzados sobre edición y publicación de textos con TEI, y los días 9, 10 y 11 para sesiones de conferencias plenarias, presentaciones y demos. 
 
+El call for papers abre en **febrero de 2024**.
