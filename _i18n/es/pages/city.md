@@ -1,4 +1,4 @@
-# Buenos Aires (BA) City - Información para visitantes 
+# Información para visitantes 
 
 **Moneda**: La moneda argentina es el Peso. El efectivo está disponible en billetes ($ 50, 100, 200, 500, 1000, 2000). Las tarjetas de crédito y débito son ampliamente aceptadas en tiendas, restaurantes, etc. Las tarjetas más aceptadas son Visa, MasterCard y American Express.<br>
 Argentina está experimentando hiperinflación. Es posible que desees llevar efectivo en USD y cambiarlo a Pesos argentinos en el hotel o localmente. Argentina tiene un "tipo de cambio oficial" y otro no regulado llamado "blue" que podría ofrecer una tasa mejor que la oficial (la brecha es casi del 100%). No cambies tu dinero en la calle, es una estafa común. En su lugar, pídele a tu anfitrión local que cambie tu dinero. Las casas de cambio utilizan el tipo de cambio oficial.<br>
