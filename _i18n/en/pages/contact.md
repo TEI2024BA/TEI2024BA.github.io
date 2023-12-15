@@ -5,4 +5,5 @@ For more information about the TEI in Spanish see:<br>
 - [Revista de Humanidades Digitales - RHD](https://revistas.uned.es/index.php/RHD/about) <br>
 - [Special issue of JTEI in Spanish](https://journals.openedition.org/jtei/) <br>
 - [HD LAB - Biblioteca digital](https://hdlab.space/biblioteca-digital/)  <br>
+- [Digital Editions with Minimal Computing - MITH/USAL](https://raffazizzi.gitlab.io/minimaldigipub/es/) <br>
   

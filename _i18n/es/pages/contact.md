@@ -5,3 +5,4 @@ Si quieres saber más sobre el uso de la TEI en español, puedes consultar estos
 - [Revista de Humanidades Digitales - RHD](https://revistas.uned.es/index.php/RHD/about) <br>
 - [Special issue of JTEI in Spanish](https://journals.openedition.org/jtei/) <br>
 - [HD LAB - Biblioteca digital](https://hdlab.space/biblioteca-digital/)  <br>
+- [Ediciones digitales con Minimal Computing - MITH/USAL](https://raffazizzi.gitlab.io/minimaldigipub/es/) <br>
