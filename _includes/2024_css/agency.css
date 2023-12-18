@@ -302,13 +302,6 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.navbar:not(.navbar-shrink) .navbar-header-home {
-  visibility: hidden;
-}
-.navbar-shrink .navbar-header-home {
-  visibility: visible;
-}
-
 
 
 @media(min-width:768px) {
@@ -340,6 +333,12 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+    .navbar:not(.navbar-shrink) .navbar-header-home {
+      visibility: hidden;
+    }
+    .navbar-shrink .navbar-header-home {
+      visibility: visible;
     }
 }
 
