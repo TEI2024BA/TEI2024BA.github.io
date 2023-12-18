@@ -96,7 +96,7 @@ h4 {
 }
 
 aside.clients {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -344,25 +344,29 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     height: 100vh;
+    position: relative;
     text-align: center;
     color: #ffffff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl_root }}/css/2024_style/img/header-bsas.jpg');
-    /* background-image: url('http://www.gettyimages.com/detail/559320699'); */
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    
-    filter: brightness(80%);
-    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+
 }
 
-header * {
-  filter: none;
+header:before {
+  content:'';
+  position:absolute;
+  background-image:url('{{ site.baseurl_root }}/css/2024_style/img/header-bsas.jpg'); 
+  background-position: center 10%;
+  background-attachment: scroll;
+  background-repeat:no-repeat; 
+  background-size: cover; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter:brightness(0.7); 
+  -webkit-filter:brightness(0.7);    
+  left:0;top:0;bottom:0;right:0; 
+  z-index:-1;
 }
+
 
 header .intro-text {
     padding-top: 25vh;
@@ -387,7 +391,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 75px;
 
-    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 @media(min-width:768px) {    
