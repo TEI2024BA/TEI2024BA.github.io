@@ -9,6 +9,7 @@ navbar:
   team: Team
   venue: Venue
   cfp: Submissions
+  registration: Registration
 homebody:
   more: Tell me more
   welcome: Welcome to TEI 2024!
