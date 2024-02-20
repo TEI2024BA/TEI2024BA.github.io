@@ -74,4 +74,3 @@ El congreso se llevará a cabo en persona.<br>
 La TEI planea celebrar su reunión general anual para sus miembros como parte de esta conferencia conjunta.<br>
 Se anunciarán detalles adicionales sobre inscripción, alojamiento, etc., en el sitio web de la conferencia, la lista de correo de TEI, [Twitter(X)](https://twitter.com/teiconsortium?lang=en) y [Facebook](https://web.facebook.com/groups/TEIconsortium/?_rdc=1&_rdr).
 En caso de preguntas, no dude en contactarnos: [hdlabconicet@gmail.com](hdlabconicet@gmail.com)
-
