@@ -70,22 +70,6 @@ Half- or full-day pre-conference **workshops**. Proposals should include convene
 ## Special Interest Groups (SIGs) 
 SIG coordinators interested in holding a meeting during the conference should contact the local hosts to book a room: hdlabconicet@gmail.com
 
-## Important Dates
-
-30 April: Upload of submissions (see Submission Guidelines) for review to ConfTool. Submissions must be in DOCX or ODT format.
-
-16 June: Notification of acceptance and invitation to authors of accepted submissions. Registration opens.
-
-16 June- 12 August Early Bird Registration. At least one author per accepted submission must register and confirm participation.
-
-2 August: Revisions to abstracts to be completed by this date and (S)IG meeting room request deadline
-
-12 August- 20 Sept: Late Registration. At least one author per accepted submission must register and confirm participation.
-
-7-11 October: Pre-conference workshops and conference.
-
-15 December: Submission of full-length papers to a special issue of the Journal of the Text Encoding Initiative. These papers are welcome to incorporate modifications in response to feedback obtained during the conference. The special issue of the Journal of the Text Encoding Initiative will undergo additional peer-review and serve as curated, open-access proceedings for the conference.
-Additional information
 
 ## Additional Information
 
