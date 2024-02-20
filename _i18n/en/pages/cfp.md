@@ -1,5 +1,7 @@
 We are pleased to announce a call for papers, posters, panels, and workshops for “Texts, languages, and communities – TEI 2024”, the twenty-fourth conference and annual general meeting of the Text Encoding Initiative that will be held 7–11 October 2024 at Universidad del Salvador (USAL), Buenos Aires, Argentina.
 
+Proposals must be submitted in the [ConfTool](https://www.conftool.pro/tei2024/)<br>
+
 ## Overview
 
 The TEI Guidelines “are addressed to anyone who works with any kind of textual resource in digital form” and any source written in any language can be published in TEI. However, all texts are cultural constructs and can be understood, analyzed, and consequently, encoded, in many different ways. Even though the TEI’s remit is global, different communities of practice have grown as part of the initiative, like the East Asian/Japanese SIG, the Music SIG, or TTHub project. These different communities of practice have developed and put to use different approaches, methodologies and technologies for encoding and publishing cultural objects.
@@ -77,8 +79,8 @@ The conference will be held in person. Further details about remote participatio
 
 The TEI plans to hold its annual general meeting for its members as part of this joint conference. 
 
-Additional details regarding registration, accommodation, etc. will be announced on the conference website, TEI mailing list, Twitter (X), and Facebook.
+Additional details regarding registration, accommodation, etc. will be announced on the conference website, TEI mailing list, [Twitter(X)](https://twitter.com/teiconsortium?lang=en) and [Facebook](https://web.facebook.com/groups/TEIconsortium/?_rdc=1&_rdr).
 
-In case of questions, feel free to contact us: hdlabconicet@gmail.com
+In case of questions, feel free to contact us: [hdlabconicet@gmail.com](hdlabconicet@gmail.com)
 
 
