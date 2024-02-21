@@ -4,11 +4,14 @@ navbar:
   coc: Code of Conduct
   contact: Contact
   hotels: Accommodation
-  place: Place
+  place: Location
   speakers: Speakers
   team: Team
   venue: Venue
-  cfp: CfP & Submissions
+  cfp: Call for Proposals
+  dates: Dates
+  fees: Fees
+  submissions: Submissions
   registration: Registration
 homebody:
   more: Tell me more

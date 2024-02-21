@@ -10,31 +10,43 @@
         <a class="page-scroll" href="{% tl registration %}">{% t navbar.registration %}</a>
     </li> -->
       <li>
-        <a class="page-scroll" href="{% tl cfp %}">{% t navbar.cfp %}</a>
+        <a class="dropdown-toggle" href="#" id="cfpDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+          Conference Information
+        </a>
+        <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="cfpDropdown" >
+          <li>
+            <a class="dropdown-item" href="{% tl dates %}">{% t navbar.dates %}</a>
+          </li>
+          <li>
+            <a class="dropdown-item">
+              {% t navbar.place %}
+            </a>
+            <ul class="dropdown-menu dropdown-submenu" >
+              <li>
+                <a class="dropdown-item" href="{% tl cfp %}">{% t navbar.city %}</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="{% tl fees %}">{% t navbar.venue %}</a>
+              </li>  
+              <li>
+                <a class="dropdown-item" href="{% tl fees %}">{% t navbar.hotels %}</a>
+              </li>  
+            </ul>
+          </li>
+          <li>
+            <a class="dropdown-item" href="{% tl fees %}">{% t navbar.fees %}</a>
+          </li>  
+          <li>
+            <a class="dropdown-item" href="{% tl coc %}">{% t navbar.coc %}</a>
+          </li>  
+        </ul>
       </li>
-      
+      <li>
+        <a class="dropdown-item" href="{% tl cfp %}">{% t navbar.cfp %}</a>
+      </li>
+
       <li>
           <a class="page-scroll" href="{% tl team %}">{% t navbar.team %}</a>
-      </li>
-      <li>
-        <a class="dropdown-toggle" href="#" id="languageDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
-          {% t navbar.place %}
-      </a>
-      <ul class="dropdown-menu" aria-labelledby="languageDropdown" >
-        
-        <li>
-          <a class="dropdown-item" href="{% tl city %}">{% t navbar.city %}</a>
-        </li>
-        <li>
-          <a class="dropdown-item" href="{% tl venue %}">{% t navbar.venue %} (USAL)</a>
-        </li>  
-        <li>
-          <a class="dropdown-item" href="{% tl hotels %}">{% t navbar.hotels %}</a>
-        </li>  
-      </ul>
-      </li>
-      <li>
-          <a class="page-scroll" href="{% tl coc %}">{% t navbar.coc %}</a>
       </li>
       <li>
           <a class="page-scroll" href="{% tl contact %}">{% t navbar.contact %}</a>

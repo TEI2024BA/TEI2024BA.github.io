@@ -8,7 +8,10 @@ navbar:
   speakers: Conferencistas
   team: Equipo
   venue: Sede
-  cfp: CfP & Envíos
+  cfp: Call for Papers
+  dates: Fechas
+  fees: Costos
+  submissions: Envíos
   registration: Inscripción
 homebody:
   more: Saber más
