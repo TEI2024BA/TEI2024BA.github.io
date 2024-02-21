@@ -1,6 +1,6 @@
-We are pleased to announce a call for papers, posters, panels, and workshops for “Texts, languages, and communities – TEI 2024”, the twenty-fourth conference and annual general meeting of the Text Encoding Initiative that will be held 7–11 October 2024 at Universidad del Salvador (USAL), Buenos Aires, Argentina.
+We are pleased to announce a call for papers, posters, panels, and workshops for **“Texts, languages, and communities – TEI 2024”**, the twenty-fourth conference and annual general meeting of the Text Encoding Initiative that will be held 7–11 October 2024 at Universidad del Salvador (USAL), Buenos Aires, Argentina.
 
-Proposals must be submitted in the [ConfTool](https://www.conftool.pro/tei2024/)<br>
+Proposals must be submitted in **[ConfTool](https://www.conftool.pro/tei2024/)**<br>
 
 ## Overview
 
@@ -58,6 +58,8 @@ Authors are invited to submit their abstract in both languages of the conference
 
 **Short paper** submissions are suitable for introducing tools, raising new ideas, and experimental topics. Speakers will be given 15 minutes each: 10 minutes for presentation, 5 minutes for discussion. Proposals should not exceed 300 words.
 
+**Demo** submissions are suitable for showing tools related to TEI encoding we are working on and with. Tool demonstrators will be given 10 minutes each and 5 minutes fos discussion. Proposals for tool demonstrations should not exceed 300 words.
+
 **Poster** submissions are expected to report on early-stage work, introduce new work, projects, or software, or present experimental ideas for community feedback. A “poster slam” session will be dedicated to poster presentations of 1 minute each. Subsequently, poster presenters will have the chance to tell interested parties more about their project during the poster exhibition, where the audience can browse freely. Proposals should not exceed 300 words.
 
 **Panels** are suited to coordinated approaches or discussions relating to a single theme. Submissions should describe the topic and nature of the panel, along with the main theses and objectives of the proposed contributions. Panel sessions will be given 90 minutes, which can be used flexibly to include, for example, 3 individual papers followed by questions, or a roundtable discussion. Proposals should not exceed 800 words.
@@ -70,7 +72,7 @@ Half- or full-day pre-conference **workshops**. Proposals should include convene
 - A list of proposed workshop leader(s) with a brief biography of each one
 
 ## Special Interest Groups (SIGs) 
-SIG coordinators interested in holding a meeting during the conference should contact the local hosts to book a room: hdlabconicet@gmail.com
+SIG coordinators interested in holding a meeting during the conference should contact the local hosts to book a room: [hdlabconicet@gmail.com](hdlabconicet@gmail.com)
 
 
 ## Additional Information
