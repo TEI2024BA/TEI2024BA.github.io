@@ -41,6 +41,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     ffi (1.16.3)
+    ffi (1.16.3-x64-mingw-ucrt)
     ffi (1.16.3-x64-mingw32)
     ffi (1.16.3-x64-unknown)
     forwardable-extended (2.6.0)
@@ -141,7 +142,7 @@ GEM
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
-    jekyll-multiple-languages-plugin (1.7.0)
+    jekyll-multiple-languages-plugin (1.8.0)
       jekyll (>= 2.0, < 5.0)
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
@@ -227,6 +228,8 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.20.0)
     mutex_m (0.2.0)
+    nokogiri (1.15.5-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.15.5-x64-mingw32)
       racc (~> 1.4)
     nokogiri (1.15.5-x64-unknown)
@@ -267,12 +270,14 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.9.1)
+    unf_ext (0.0.9.1-x64-mingw-ucrt)
     unf_ext (0.0.9.1-x64-mingw32)
     unf_ext (0.0.9.1-x64-unknown)
     unicode-display_width (1.8.0)
     webrick (1.8.1)
 
 PLATFORMS
+  x64-mingw-ucrt
   x64-mingw32
   x64-unknown
   x86_64-linux
@@ -280,11 +285,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (~> 3.8)
-  jekyll-multiple-languages-plugin (~> 1.7.0)
+  jekyll-multiple-languages-plugin
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.14
+   2.4.22

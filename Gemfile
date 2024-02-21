@@ -6,8 +6,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 3.8"
 
-# gem 'jekyll-multiple-languages-plugin'
-gem 'jekyll-multiple-languages-plugin', "~> 1.7.0"
+gem 'jekyll-multiple-languages-plugin'
 
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"

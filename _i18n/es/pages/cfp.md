@@ -1,17 +1,21 @@
-Nos complace anunciar el llamado a presentaciones, pósters, paneles y talleres para **"Textos, lenguas y comunidades - TEI 2024"**, el vigésimo cuarto congreso y reunión general anual de la Text Encoding Initiative, que se llevará a cabo del 7 al 11 de octubre de 2024 en la Universidad del Salvador (USAL), Buenos Aires, Argentina.<br>
+Nos complace anunciar el llamado a presentaciones, pósters, paneles y talleres para **"Textos, lenguas y comunidades - TEI 2024"**, el vigésimo cuarto congreso y reunión general anual de la Text Encoding Initiative, que se llevará a cabo del 7 al 11 de octubre de 2024 en la Universidad del Salvador (USAL), Buenos Aires, Argentina.
 
-Las propuestas deben enviarse desde [ConfTool](https://www.conftool.pro/tei2024/)<br>
+Las propuestas deben enviarse desde [ConfTool](https://www.conftool.pro/tei2024/)
 
-**Tema del congreso**<br>
-Las Guidelines de la TEI están dirigidas a cualquier persona que trabaje con cualquier tipo de recurso textual en formato digital, señalando que cualquier fuente escrita en cualquier idioma puede ser publicada utilizando la TEI. Sin embargo, como sabemos todo texto es una construcción cultural y, como tal, puede ser comprendido, analizado y, en consecuencia, codificado de muchas  y diferentes maneras. Así, aunque el alcance de la TEI es global, por esta razón diferentes comunidades de práctica han surgido dentro de la comunidad de la TEI, como el East Asian/Japanese SIG, el Music SIG o el proyecto TTHub. Estas diferentes comunidades de práctica han desarrollado y puesto en uso diferentes enfoques, metodologías y tecnologías para la codificación y publicación de objetos culturales.<br>
+**Tema del congreso**
+
+Las Guidelines de la TEI están dirigidas a cualquier persona que trabaje con cualquier tipo de recurso textual en formato digital, señalando que cualquier fuente escrita en cualquier idioma puede ser publicada utilizando la TEI. Sin embargo, como sabemos todo texto es una construcción cultural y, como tal, puede ser comprendido, analizado y, en consecuencia, codificado de muchas  y diferentes maneras. Así, aunque el alcance de la TEI es global, por esta razón diferentes comunidades de práctica han surgido dentro de la comunidad de la TEI, como el East Asian/Japanese SIG, el Music SIG o el proyecto TTHub. Estas diferentes comunidades de práctica han desarrollado y puesto en uso diferentes enfoques, metodologías y tecnologías para la codificación y publicación de objetos culturales.
 
 El tema del congreso - "Textos, lenguas y comunidades" - tiene como objetivo destacar el alcance global de la TEI junto con sus adaptaciones locales y reunirnos como una comunidad diversa y multilingüe, donde el intercambio de experiencias y el aprendizaje compartido nos ayuden a reflexionar sobre los textos que investigamos, las lenguas que usamos y las comunidades que creamos.
 
-**Propuestas**<br>
-El congreso recibirá contribuciones de todos aquellos que estén desarrollando o aplicando codificación en TEI a textos y artefactos culturales relacionados con campos que incluyen, pero no se limitan a música, literatura, historia, lingüística y arqueología.<br>
-Estamos especialmente interesados ​​en recibir propuestas de todo tipo de participantes, incluidos jóvenes investigadores o académicos de carrera, profesores, programadores e ingenieros de software, curadores culturales y archivistas, bibliotecarios, así como estudiantes de posgrado y pregrado. Además, buscamos recibir propuestas de participantes que se inicien en la codificación de textos y quieran asistir por primera vez al congreso. Se ofrecerán becas para estudiantes argentinos, así como becas de viaje internacional ofrecidas por los consorcios de la TEI y MEI; se proporcionará más información sobre estas después del proceso de revisión.<br>
+**Propuestas**
 
-Los temas del congreso incluyen, pero no se limitan a el uso o aplicación de TEI en:<br>
+El congreso recibirá contribuciones de todos aquellos que estén desarrollando o aplicando codificación en TEI a textos y artefactos culturales relacionados con campos que incluyen, pero no se limitan a música, literatura, historia, lingüística y arqueología.
+
+Estamos especialmente interesados ​​en recibir propuestas de todo tipo de participantes, incluidos jóvenes investigadores o académicos de carrera, profesores, programadores e ingenieros de software, curadores culturales y archivistas, bibliotecarios, así como estudiantes de posgrado y pregrado. Además, buscamos recibir propuestas de participantes que se inicien en la codificación de textos y quieran asistir por primera vez al congreso. Se ofrecerán becas para estudiantes argentinos, así como becas de viaje internacional ofrecidas por los consorcios de la TEI y MEI; se proporcionará más información sobre estas después del proceso de revisión.
+
+Los temas del congreso incluyen, pero no se limitan a el uso o aplicación de TEI en:
+
 - humanidades digitales
 - ediciones digitales
 - galerías/bibliotecas/archivos/museos
@@ -24,7 +28,8 @@ Los temas del congreso incluyen, pero no se limitan a el uso o aplicación de TE
 - enfoques de aprendizaje automático
 - análisis literario
 
-También estamos interesados ​​en:<br>
+También estamos interesados ​​en:
+
 - codificación, publicación e investigación de corpus o recursos léxicos multilingües 
 - pedagogías relacionadas con la codificación de textos
 - TEI en español
@@ -43,16 +48,18 @@ También estamos interesados ​​en:<br>
 Todas las presentaciones serán sometidas a revisión por pares ciegos dobles por varios miembros del comité de programa antes de su aceptación. Tengan en cuenta las fechas límite para el proceso de presentación detalladas en más abajo en Fechas importantes.<br>
 Finalizado el congreso se invitará a los autores de las presentaciones aceptadas a enviar trabajos a un número especial de la revista revisada por pares y de acceso abierto Journal of the Text Encoding Initiative. Los artículos enviados a la revista serán sometidos a una nueva ronda de revisión por pares, ya sea por miembros del Comité de Programa o por la comunidad en general, antes de su publicación.<br>
 
-**Lenguas del congreso**<br>
-Las propuestas deben enviarse en español o inglés. Habrá interpretación simultánea disponible para inglés a español y español a inglés para las conferencias plenarias.<br>
+**Lenguas del congreso**
+
+Las propuestas deben enviarse en español o inglés. Habrá interpretación simultánea disponible para inglés a español y español a inglés para las conferencias plenarias.
 
 **Directrices de presentación**
-Cada presentación debe incluir un título, un resumen, hasta cinco palabras clave y una breve biografía para cada autor. Cada biografía no debe exceder las 300 caracteres y debe incluir la afiliación actual e intereses de investigación.<br>
-Invitamos a los autores a enviar sus resúmenes en las dos lenguas del congreso (un resumen a continuación del otro), aunque esto no es obligatorio.<br>
+Cada presentación debe incluir un título, un resumen, hasta cinco palabras clave y una breve biografía para cada autor. Cada biografía no debe exceder las 300 caracteres y debe incluir la afiliación actual e intereses de investigación.
 
-- Se espera que las **presentaciones extensas (long papers)** versen sobre descripciones generales o detalles específicos de proyectos en curso o completados, presenten estudios de caso detallados o perspectivas elaboradas sobre las mejores prácticas en el campo, o proporcionen otros informes sobre temas relevantes para el congreso. Se dará a los oradores 30 minutos: 20 minutos para la presentación, 10 minutos para la discusión. Las propuestas no deben exceder las 500 palabras.<br>
+Invitamos a los autores a enviar sus resúmenes en las dos lenguas del congreso (un resumen a continuación del otro), aunque esto no es obligatorio.
 
-- Las **presentaciones breves (short papers)** son adecuadas para presentar herramientas, plantear nuevas ideas y temas experimentales. Se dará a los oradores 15 minutos cada uno: 10 minutos para la presentación, 5 minutos para la discusión. Las propuestas no deben exceder las 300 palabras.<br>
+- Se espera que las **presentaciones extensas (long papers)** versen sobre descripciones generales o detalles específicos de proyectos en curso o completados, presenten estudios de caso detallados o perspectivas elaboradas sobre las mejores prácticas en el campo, o proporcionen otros informes sobre temas relevantes para el congreso. Se dará a los oradores 30 minutos: 20 minutos para la presentación, 10 minutos para la discusión. Las propuestas no deben exceder las 500 palabras.
+
+- Las **presentaciones breves (short papers)** son adecuadas para presentar herramientas, plantear nuevas ideas y temas experimentales. Se dará a los oradores 15 minutos cada uno: 10 minutos para la presentación, 5 minutos para la discusión. Las propuestas no deben exceder las 300 palabras.
 
 - Se espera que los **pósters** informen sobre trabajos en etapas iniciales, presenten nuevos trabajos, proyectos o software, o ideas experimentales para retroalimentación por parte de la comunidad. Se dedicará una sesión de "poster slam" a presentaciones de pósters de 1 minuto cada una. Posteriormente, los presentadores de pósters tendrán la oportunidad de contar a las partes interesadas más sobre su proyecto durante la exposición de pósters, donde la audiencia puede navegar libremente. Las propuestas no deben exceder las 300 palabras.<br>
 
