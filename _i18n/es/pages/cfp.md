@@ -1,4 +1,4 @@
-Nos complace anunciar el llamado a presentaciones, pósters, paneles y talleres para **"Textos, lenguas y comunidades - TEI 2024"**, el vigésimo cuarto congreso y reunión general anual de la Text Encoding Initiative, que se llevará a cabo del 7 al 11 de octubre de 2024 en la Universidad del Salvador (USAL), Buenos Aires, Argentina.
+Nos complace anunciar el llamado a presentaciones, pósters, demos, paneles y talleres para **"Textos, lenguas y comunidades - TEI 2024"**, el vigésimo cuarto congreso y reunión general anual de la Text Encoding Initiative, que se llevará a cabo del 7 al 11 de octubre de 2024 en la Universidad del Salvador (USAL), Buenos Aires, Argentina.
 
 Las propuestas deben enviarse desde **[ConfTool](https://www.conftool.pro/tei2024/)**
 
@@ -8,7 +8,7 @@ Las Guidelines de la TEI están dirigidas a cualquier persona que trabaje con cu
 
 El tema del congreso - "Textos, lenguas y comunidades" - tiene como objetivo destacar el alcance global de la TEI junto con sus adaptaciones locales y reunirnos como una comunidad diversa y multilingüe, donde el intercambio de experiencias y el aprendizaje compartido nos ayuden a reflexionar sobre los textos que investigamos, las lenguas que usamos y las comunidades que creamos.
 
-##Propuestas
+## Propuestas
 
 El congreso recibirá contribuciones de todos aquellos que estén desarrollando o aplicando codificación en TEI a textos y artefactos culturales relacionados con campos que incluyen, pero no se limitan a música, literatura, historia, lingüística y arqueología.
 
