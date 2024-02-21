@@ -53,7 +53,7 @@ Submission Guidelines
 
 Each submission should include a title, an abstract, up to five keywords, and a brief biography for each author. Each biography should be no more than 300 characters and should include current affiliation and research interests. 
 
-Authors are invited to submit their abstract in both languages of the conference, although this is not mandatory. 
+Authors are invited to submit their abstract in both the languages of the conference, although this is not mandatory. 
 
 **Long Paper** submissions are expected to present overviews or detail specific aspects of ongoing or completed projects, present detailed case-studies or elaborated perspectives on best practices in the field, or provide other reports on topics relevant to the conference (see Topics above). Speakers will be given 30 minutes each: 20 minutes for presentation, 10 minutes for discussion. Proposals should not exceed 500 words.
 
