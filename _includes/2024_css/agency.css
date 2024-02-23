@@ -981,7 +981,8 @@ ul.dropdown-menu {
 
 /*  Dropdown and Submenu */
 .dropdown-menu {
-    border: solid 2px #{{ site.data.template.color.primary }};;
+    /* border: solid 2px #{{ site.data.template.color.primary }}; */
+    background-color: white;
 }
 
 .dropdown-menu li {
@@ -1001,3 +1002,20 @@ ul.dropdown-menu {
 .dropdown-menu > li:hover > .dropdown-submenu {
     display: block;
 }
+
+@media (max-width: 767px) {
+    .navbar-nav .open .dropdown-menu {
+      background-color: #23313f;
+      border: 1px solid white;
+      border-top: 0;
+      border-right: 0;
+      margin-left: 1em;
+    }
+
+    .navbar-nav .open .dropdown-menu .dropdown-menu {
+        background-color: #2c3d50;
+        margin-left: 1em;
+      }
+
+
+  }
