@@ -27,9 +27,9 @@ h1.team-h1 {
     *zoom: 1;
 }
 
-.padding-team {
-  padding: 5%;
-}
+// .padding-team {
+//   padding: 5%;
+// }
 
 .team-container {
   max-width: 1200px;
@@ -49,14 +49,27 @@ h1.team-h1 {
     box-sizing: content-box;
   }
 }
-
-.team-container-top {
-  margin-top: 100px;
+.cf.team-container.team-container-top.black-frame:nth-of-type(even) {
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 5em;
+  margin-bottom: 5em;
+}
+.cf.team-container.team-container-top.black-frame:nth-of-type(odd) {
+  padding-top: 1em;
+  margin-top: 4em;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  padding-top: 0;
 }
 
-.team-container-bottom {
-  margin-bottom: 60px;
-}
+// .team-container-top {
+//   margin-top: 100px;
+// }
+
+// .team-container-bottom {
+//   margin-bottom: 60px;
+// }
 
 .team-member {
   padding: 10px 20px 10px 20px;
