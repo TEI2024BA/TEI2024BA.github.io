@@ -13,6 +13,10 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+    $('a.dropdown-toggle.dropdown-item').click(function(e){
+        e.preventDefault();
+        e.stopPropagation(); 
+    })
 });
 
 // Highlight the top nav as scrolling occurs
@@ -22,7 +26,7 @@ $('body').scrollspy({
 
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
-    $('.navbar-toggle:visible').click();
+    // $('.navbar-toggle:visible').click();
 });
 
 $('div.modal').on('show.bs.modal', function() {

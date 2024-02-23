@@ -10,18 +10,18 @@
         <a class="page-scroll" href="{% tl registration %}">{% t navbar.registration %}</a>
     </li> -->
       <li>
-        <a class="dropdown-toggle" id="cfpDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+        <a class="dropdown-toggle" id="ciDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
           Conference Information
         </a>
-        <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="cfpDropdown" >
+        <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="ciDropdown" >
           <li>
             <a class="dropdown-item" href="{% tl dates %}">{% t navbar.dates %}</a>
           </li>
           <li>
-            <a class="dropdown-item">
+            <a class="dropdown-item dropdown-toggle" id="placeDropdown" role="button" aria-expanded="false" aria-haspopup="true" onclick="">
               {% t navbar.place %}
             </a>
-            <ul class="dropdown-menu dropdown-submenu" >
+            <ul class="dropdown-menu dropdown-submenu" aria-labelledby="placeDropdown" >
               <li>
                 <a class="dropdown-item" href="{% tl city %}">{% t navbar.city %}</a>
               </li>
