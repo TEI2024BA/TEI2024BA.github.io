@@ -10,7 +10,7 @@
         <a class="page-scroll" href="{% tl registration %}">{% t navbar.registration %}</a>
     </li> -->
       <li>
-        <a class="dropdown-toggle" id="ciDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+        <a class="dropdown-toggle navbar-button" id="ciDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
           {% t navbar.info %}
         </a>
         <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="ciDropdown" >
@@ -42,13 +42,13 @@
         </ul>
       </li>
       <li>
-        <a href="{% tl cfp %}">{% t navbar.cfp %}</a>
+        <a href="{% tl cfp %}" class="navbar-button">{% t navbar.cfp %}</a>
       </li>
       <li>
-          <a href="{% tl team %}">{% t navbar.team %}</a>
+          <a href="{% tl team %}" class="navbar-button">{% t navbar.team %}</a>
       </li>
       <li>
-          <a href="{% tl contact %}">{% t navbar.contact %}</a>
+          <a href="{% tl contact %}" class="navbar-button">{% t navbar.contact %}</a>
       </li>
       {% include 2024_data/languageswitch.html %}
           
