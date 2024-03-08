@@ -289,10 +289,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-    outline: 0;
-    color: #{{ site.data.template.color.primary }};
+    outline: 10;
+    font-weight: 500;
+    font-family:  Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: darkblue;
     background-color: rgba(221,221,221,0.5);
 }
+
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
@@ -1009,6 +1012,10 @@ ul.dropdown-menu {
 }
 .dropdown-menu > li:hover > .dropdown-submenu {
     display: block;
+}
+
+.dropdown-menu > li > a {
+  color: white;
 }
 
 @media (max-width: 767px) {
