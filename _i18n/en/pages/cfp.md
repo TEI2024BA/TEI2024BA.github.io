@@ -1,6 +1,6 @@
 We are pleased to announce a call for papers, posters, panels, demos, and workshops for **“Texts, languages, and communities – TEI 2024”**, the twenty-fourth conference and annual general meeting of the Text Encoding Initiative that will be held in person 7–11 October 2024 at Universidad del Salvador (USAL), Buenos Aires, Argentina.
 
-Proposals must be submitted via **[ConfTool](https://www.conftool.pro/tei2024/)**<br>
+### Proposals must be submitted via **[ConfTool](https://www.conftool.pro/tei2024/)**. **Submissions are open until <u>April 30</u>.**
 
 ## Overview
 
