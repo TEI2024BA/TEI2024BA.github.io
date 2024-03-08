@@ -48,7 +48,7 @@ También estamos interesados ​​en:
 Todas las presentaciones serán sometidas a revisión por pares ciegos dobles por varios miembros del comité de programa antes de su aceptación. Tengan en cuenta las fechas límite para el proceso de presentación detalladas en más abajo en Fechas importantes.<br>
 Finalizado el congreso se invitará a los autores de las presentaciones aceptadas a enviar trabajos a un número especial de la revista revisada por pares y de acceso abierto Journal of the Text Encoding Initiative. Los artículos enviados a la revista serán sometidos a una nueva ronda de revisión por pares, ya sea por miembros del Comité de Programa o por la comunidad en general, antes de su publicación.<br>
 
-# #Lenguas del congreso
+## Lenguas del congreso
 
 Las propuestas deben enviarse en español o inglés. Habrá interpretación simultánea disponible para inglés a español y español a inglés para las conferencias plenarias.
 
@@ -76,8 +76,11 @@ Cualquier requisito especial (por ejemplo, computadoras portátiles proporcionad
 **Grupos de Interés (SIG)**<br>
 - Los coordinadores de SIG interesados ​​en celebrar una reunión durante la conferencia deben comunicarse con los anfitriones locales para reservar una sala: [hdlabconicet@gmail.com](hdlabconicet@gmail.com)
 
-## Información adicional**
-El congreso se llevará a cabo en persona.<br>
-La TEI planea celebrar su reunión general anual para sus miembros como parte de esta conferencia conjunta.<br>
+## Información adicional
+
+El congreso se llevará a cabo en persona.
+
+La TEI planea celebrar su reunión general anual para sus miembros como parte de esta conferencia conjunta.
+
 Se anunciarán detalles adicionales sobre inscripción, alojamiento, etc., en el sitio web de la conferencia, la lista de correo de TEI, [Twitter(X)](https://twitter.com/teiconsortium?lang=en) y [Facebook](https://web.facebook.com/groups/TEIconsortium/?_rdc=1&_rdr).
 En caso de preguntas, no dude en contactarnos: [hdlabconicet@gmail.com](hdlabconicet@gmail.com)
