@@ -1,5 +1,7 @@
 If you have any questions or would like to know more send us an email at [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com)
 
+We are also looking for sponsors for the conference! If you are interested, contact us.
+
 For more information about the TEI in Spanish see:
 
 - [Text Technolgies Hub - TTHUB](https://tthub.io/)

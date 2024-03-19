@@ -1,5 +1,7 @@
 Si tienes preguntas o quieres saber más sobre el congreso, puedes contactarnos a [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com)
 
+¡Estamos buscando sponsors para el congreso! Si te einteresa, contactanos.
+
 Si quieres saber más sobre el uso de la TEI en español, puedes consultar estos recursos:
 
 - [Hub de Tecnolgías del texto - TTHUB](https://tthub.io/)
