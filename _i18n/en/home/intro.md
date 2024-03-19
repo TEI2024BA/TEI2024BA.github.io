@@ -6,5 +6,5 @@ The conference will be held in-person at [Universidad del Salvador](https://www.
 
 We are receiving proposals until **April 30th**.
 
-<!-- Call for Proposals opens in **February, 2024**. -->
+
 
