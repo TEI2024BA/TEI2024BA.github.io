@@ -4,7 +4,7 @@ Los organizadores y patrocinadores del congreso hacen posible nuestro evento al 
 
 Todos los autores de trabajos aceptados son elegibles para solicitar becas de viaje ofrecidas por la TEI y MEI. Las solicitudes se recibirán después de la notificación de aceptación a través de un formulario en línea. La selección se basará en las necesidades de los solicitantes, así como en la calidad del resumen presentado.
 
-El [TEI](https://tei-c.org/) está ofreciendo **una beca de 1,000 USD** y el [MEI](https://music-encoding.org/) está ofreciendo **dos becas de 500 euros cada una**.
+La [TEI](https://tei-c.org/) está ofreciendo **una beca de 1,000 USD** y la [MEI](https://music-encoding.org/) está ofreciendo **dos becas de 500 euros cada una**.
 
 ## Exención de arancel de Inscripción
 
