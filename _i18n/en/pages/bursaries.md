@@ -3,7 +3,7 @@ Conference organizers and sponsors offer travel bursaries and registration fee-w
 
 ## TEI / MEI Travel Bursaries
 
-All authors of accepted papers are elegible to apply for travel bursaries offered by the TEI and the MEI. Applications will be received after the acceptance notification through an online form. The selection will be based on the needs of the applicants, as well as the quality of the abstract submitted to the conference. 
+All authors of accepted papers are eligible to apply for travel bursaries offered by the TEI and the MEI. Applications will be received after the acceptance notification through an online form. The selection will be based on the needs of the applicants, as well as the quality of the abstract submitted to the conference. 
 
 The [TEI](https://tei-c.org/) is offering **one bursary of 1,000 USD** and the [MEI](https://music-encoding.org/) is offering **two bursaries of 500 euros each**.
 
