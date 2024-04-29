@@ -1,5 +1,5 @@
 
-- ~~30 de abril~~ **12 de mayo**: Carga de presentaciones (ver [Directrices de presentación]({% tl cfp %})) para revisión en [ConfTool](https://www.conftool.pro/tei2024/). Las presentaciones deben estar en formato DOCX u ODT.
+- ~~30 de abril~~ **10 de mayo**: Carga de presentaciones (ver [Directrices de presentación]({% tl cfp %})) para revisión en [ConfTool](https://www.conftool.pro/tei2024/). Las presentaciones deben estar en formato DOCX u ODT.
 
 - **16 de junio**: Notificación de aceptación e invitación a los autores de presentaciones aceptadas. Se abre la inscripción.
 
