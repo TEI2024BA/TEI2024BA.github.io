@@ -1,5 +1,5 @@
 
-- **30 April**: Upload of submissions (see [Submission Guidelines]({% tl cfp %})) for review to [ConfTool](https://www.conftool.pro/tei2024/). Submissions must be in DOCX or ODT format.
+- ~~30 April~~ **12 May**: Upload of submissions (see [Submission Guidelines]({% tl cfp %})) for review to [ConfTool](https://www.conftool.pro/tei2024/). Submissions must be in DOCX or ODT format.
 
 - **16 June**: Notification of acceptance and invitation to authors of accepted submissions. Registration opens.
 
