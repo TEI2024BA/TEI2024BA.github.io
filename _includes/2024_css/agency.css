@@ -989,6 +989,11 @@ ul.dropdown-menu {
   max-height: 100px;
 }
 
+.sponsor-col {
+  padding: 0;
+  margin: 0;
+}
+
 
 /*  Dropdown and Submenu */
 .dropdown-menu {
