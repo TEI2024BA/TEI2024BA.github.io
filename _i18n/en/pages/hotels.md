@@ -1,8 +1,6 @@
 These hotels are very close to the venue. We recommend booking in the neighborhoods of Recoleta, Barrio Norte, Retiro, in advance
 <br>
 
-{% include 2024_data/hotel_list.md %}
-
 **Art Suites & Gallery**
 Peña 2268<br>
 (1126) Ciudad Autónoma de Buenos Aires<br>
