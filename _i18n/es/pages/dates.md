@@ -1,13 +1,15 @@
 
 - ~~30 de abril~~ **10 de mayo**: Carga de presentaciones (ver [Directrices de presentación]({% tl cfp %})) para revisión en [ConfTool](https://www.conftool.pro/tei2024/). Las presentaciones deben estar en formato DOCX u ODT.
 
-- **16 de junio**: Notificación de aceptación e invitación a los autores de presentaciones aceptadas. Se abre la inscripción.
+- **18 de junio**: Notificación de aceptación e invitación a los autores de presentaciones aceptadas. Se abre la inscripción.
+
+- **18 junio – 12 agosto**: Inscripción temprana (*Early Bird Registration*) con descuento. Al menos un autor por presentación aceptada debe inscribirse y confirmar su participación.
+
+- **10 julio**: Fecha límite de candidaturas a becas. (más información [aquí](/bursaries))
 
 - **2 de agosto**: Revisiones de resúmenes a completarse para esta fecha.
 
 - **12 de agosto**: Fecha límite de inscripción para presentadores (ponencias, pósters, talleres, paneles). 
-
-- **16 Junio – 12 agosto**: Inscripción temprana (*Early Bird Registration*) con descuento. Al menos un autor por presentación aceptada debe inscribirse y confirmar su participación.
 
 - **2 de agosto**: Revisiones de abstracts completas. Fecha límite para solicitar sala de reunión de (S)IG
 

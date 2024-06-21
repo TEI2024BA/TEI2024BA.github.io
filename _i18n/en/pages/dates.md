@@ -1,11 +1,15 @@
 
 - ~~30 April~~ **10 May**: Upload of submissions (see [Submission Guidelines]({% tl cfp %})) for review to [ConfTool](https://www.conftool.pro/tei2024/). Submissions must be in DOCX or ODT format.
 
-- **16 June**: Notification of acceptance and invitation to authors of accepted submissions. Registration opens.
+- **18 June**: Notification of acceptance and invitation to authors of accepted submissions. Registration opens.
 
-- **16 June – 12 August**: Early Bird Registration. At least one author per accepted submission must register and confirm participation.
+- **18 June – 12 August**: Early Bird Registration. At least one author per accepted submission must register and confirm participation.
+
+- **10 July**: Bursaries application deadline. (more information [here](/bursaries))
 
 - **2 August**: Revisions to abstracts to be completed by this date and (S)IG meeting room request deadline
+
+- **12 de agosto**: Inscription deadline for presenters (papers, posters, workshop, panels). 
 
 - **13 August – 20 Sept**: Late Registration. At least one author per accepted submission must register and confirm participation.
 
