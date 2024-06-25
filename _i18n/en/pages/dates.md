@@ -3,15 +3,15 @@
 
 - **18 June**: Notification of acceptance and invitation to authors of accepted submissions. Registration opens.
 
-- **18 June – 12 August**: Early Bird Registration. At least one author per accepted submission must register and confirm participation.
+- **25 June – 12 August**: Early Bird Registration. At least one author per accepted submission must register and confirm participation.
 
 - **10 July**: Bursaries application deadline. (more information [here](/bursaries))
 
 - **2 August**: Revisions to abstracts to be completed by this date and (S)IG meeting room request deadline
 
-- **12 de agosto**: Inscription deadline for presenters (papers, posters, workshop, panels). 
+- **12 de agosto**: Inscription deadline for presenters (papers, posters, workshop, panels). At least one author per accepted submission must register and confirm participation.
 
-- **13 August – 20 Sept**: Late Registration. At least one author per accepted submission must register and confirm participation.
+- **13 August – 20 Sept**: Late Registration. 
 
 - **7–11 October**: Pre-conference workshops and conference.
 
