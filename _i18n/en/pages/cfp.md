@@ -78,7 +78,7 @@ SIG coordinators interested in holding a meeting during the conference should co
 
 ## Additional Information
 
-The conference will be held in person. Further details about remote participation will be provided on the conference website.
+The conference will be held in person. 
 
 The TEI plans to hold its annual general meeting for its members as part of this joint conference. 
 
