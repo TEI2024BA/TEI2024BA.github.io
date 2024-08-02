@@ -4,6 +4,8 @@ Puedes registrarte para participar del congreso siguiendo este link:
 
 Descuento por inscripción temprana ("*early bird*") hasta el **12 de agosto**.
 
+Si estás registrado para el congreso, podés inscribirte a los talleres hasta el **20 September** [aquí](https://forms.gle/x9u3KwRQSqk5gajE8).
+
 # Precio Inscripción
 
 ## Inscripción temprana <span style="font-size:0.5em; text-transform: none; padding-left: 1em;">hasta el 12 de agosto</span>

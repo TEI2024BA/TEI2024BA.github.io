@@ -13,6 +13,8 @@
 
 - **13 August – 20 Sept**: Inscripción tardía (*Late Registration*).  
 
+- **20 Sept**: Fecha límite para inscripción a talleres.
+
 - **7 – 11 de octubre**: Talleres previos a la conferencia y conferencia.
 
 - **15 de diciembre**: Envío de artículos de longitud completa a un número especial de la revista [*Journal of the Text Encoding Initiative*](https://journals.openedition.org/jtei/). Estos artículos pueden incorporar modificaciones en respuesta a los comentarios obtenidos durante la conferencia. El número especial de la revista Journal of the Text Encoding Initiative será sometido a revisión por pares adicional y servirá como actas curadas y de acceso abierto para la conferencia.

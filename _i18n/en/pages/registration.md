@@ -4,6 +4,8 @@ You can register for the conference by following this link:
 
 Early bird discount available until **12th August**.
 
+If you are registered for the conference you can sign up for workshops until **20 September** [here](https://forms.gle/x9u3KwRQSqk5gajE8).
+
 # Fees
 
 ## Early Bird <span style="font-size:0.5em; text-transform: none; padding-left: 1em;">until 12 August</span>
