@@ -1,6 +1,6 @@
 Los organizadores y patrocinadores del congreso ofrecen becas de viaje y exención de aranceles de inscripción, para que más personas puedan participar en TEI 2024. Si tienes una presentación aceptada puedes presentar tu candidatura a las becas completando [este formulario](https://forms.gle/J8p4jQywKcdq1z3j9) hasta el **10 de julio**.
 
-Si estás interesado en convertirte en un patrocinador, ya sea como individuo o institución, envíanos un correo electrónico a [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com).
+<!-- Si estás interesado en convertirte en un patrocinador, ya sea como individuo o institución, envíanos un correo electrónico a [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com). -->
 
 ## Resultados
 
