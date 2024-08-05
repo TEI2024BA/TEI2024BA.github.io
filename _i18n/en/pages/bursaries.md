@@ -1,6 +1,18 @@
 Conference organizers and sponsors offer travel bursaries and registration fee-waivers, so more people can participate of TEI 2024. If you have an accepted presentation (paper or poster), you can apply to the bursaries by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdmJcea0lb9qpCrQROt5oAGrAgwQfxTT8MS4kM3bbOQreVh2g/viewform?usp=sf_link) until the **10 of July**.
 
-If you are interested in becoming a sponsor, as individual or institution, send us and email to [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com). 
+<!-- If you are interested in becoming a sponsor, as individual or institution, send us and email to [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com).  -->
+
+## Bursary Recipients
+
+After considering the **11 applications** received for bursaries, the conference organisers have decided to award them as follows:
+
+- TEI Travel bursary (1000 Euros): Martha E. M. Thomae Elias
+- MEI Travel bursaries (500 Euros each): Marco de Cristofaro / Saniya Irfan
+- Registration fee waiver: María Teresa Ravelo Sánchez
+
+We would like to extend our gratitude to all applicants for their interest in the bursaries. We have made the decision considering the text supplied with the applications, as well as the level of participation in the conference and the academic background of the participants. We will contact bursary recipients individually with more details.
+
+We thank the TEI, the MEI and the anonymous sponsors for making this possible. 
 
 
 ## TEI / MEI Travel Bursaries
