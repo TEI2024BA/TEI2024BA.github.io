@@ -10,13 +10,13 @@ For more information about the TEI in Spanish see:
 - [HD LAB - Biblioteca digital](https://hdlab.space/biblioteca-digital/)  
 - [Digital Editions with Minimal Computing - MITH/USAL](https://raffazizzi.gitlab.io/minimaldigipub/es/) 
 
-#Sponsorship Opportunities
+# Sponsorship Opportunities
 
- Get in touch at [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com) to find out more about the sponsorship levels available. 
+ Get in touch at [hdlabconicet@gmail.com](mailto:hdlabconicet@gmail.com) to find out more about the sponsorship options available. 
 
 Our default sponsorship packages include: 
 
-- Virtual Sponsor: Logo on the TEI2024 sponsors web page (linking to your website)  and opening conference slide, mentioned in thank-you speech at opening keynote.
-- Reception Sponsor: All of the above, plus announced special thanks at the start of one of the receptions, a tweet from the @TEI twitter account thanking the sponsor on the day of that reception, and table/booth allowed at both poster session and that reception
+- Virtual Sponsor: Logo on the TEI 2024 sponsors web page (linking to your website)  and opening conference slide, mentioned in thank-you speech at opening keynote.
+- Reception Sponsor: All of the above, plus announced special thanks at the start of one of the receptions, a tweet from the @TEI twitter account thanking the sponsor on the day of that reception.
 
-Other sponsorship opportunities can be negotiated directly, and individual items (such as full/half-page adverts in the PDF book of abstracts) are available. 
+Other sponsorship opportunities can be negotiated directly, and individual items (such as full/half-page adverts in the PDF book of abstracts) are also available. 
