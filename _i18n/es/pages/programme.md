@@ -14,10 +14,7 @@ Estamos planeando una cena, así como una serie de actividades sociales para com
 
 ¡Tienes hasta el 20 de septiembre para inscribirte!
 
-Inscríbete para la **[cena]:(https://members.tei-c.org/event-5853644)**
+Inscríbete para la **[cena](https://members.tei-c.org/event-5853644)**
 
 Inscríbete para obtener más información sobre las actividades del programa social en este **[formulario](https://docs.google.com/forms/d/e/1FAIpQLScfLUDSrPs6072FqJ1-jg6uFyZb77Vu-rVCm4jJ3QwYCL_UXw/viewform)**
 
----
-
-Let me know if you need any more help!
