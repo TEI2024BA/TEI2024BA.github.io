@@ -4,7 +4,7 @@ Check the program **[here](https://www.conftool.pro/tei2024/sessions.php)**
 <br/> 
 Sign up for the conference workshops by filling **[this form](https://forms.gle/x9u3KwRQSqk5gajE8)** Registration is a prerequisite to participate in the workshops. 
 
-# Conference Dinner and Social Program
+## Conference Dinner and Social Program
 
 We are planning a dinner as well as a series of social activities to complement the academic schedule of the conference: a walking city tour, wine tasting, a visit to the national library and going to a milonga (tango class and dancing).
 

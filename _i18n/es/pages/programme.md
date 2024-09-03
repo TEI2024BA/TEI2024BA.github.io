@@ -8,7 +8,7 @@ Here is the translation to Spanish:
 
 ---
 
-# Cena y Programa Social
+## Cena y Programa Social
 
 Estamos planeando una cena, así como una serie de actividades sociales para complementar el programa académico del congreso: una visita guiada a pie por la ciudad, una cata de vinos, una visita a la biblioteca nacional y asistir a una milonga (clase de tango y baile).
 
