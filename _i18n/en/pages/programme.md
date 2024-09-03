@@ -1,5 +1,5 @@
 
-Check the program **[here](https://www.conftool.pro/tei2024/sessions.php)**
+Check the conference program and browse sessions **[here](https://www.conftool.pro/tei2024/sessions.php)**
 <br/> 
 <br/> 
 Sign up for the conference workshops by filling **[this form](https://forms.gle/x9u3KwRQSqk5gajE8)** Registration is a prerequisite to participate in the workshops. 

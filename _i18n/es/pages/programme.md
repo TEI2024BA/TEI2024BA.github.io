@@ -1,5 +1,5 @@
 
-Puedes **[consultar el programa aquí](https://www.conftool.pro/tei2024/sessions.php)**
+Puedes **[consultar el programa del congreso aquí](https://www.conftool.pro/tei2024/sessions.php)**
 <br/> 
 <br/> 
 Puedes inscribirte a los talleres del congreso llenando **[este formulario](https://forms.gle/x9u3KwRQSqk5gajE8). (Es necesario estar inscripto en este formulario para participar de los talleres)**
