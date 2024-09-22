@@ -6,7 +6,7 @@ We are pleased to announce a call for papers, posters, panels, demos, and worksh
 
 The TEI Guidelines “are addressed to anyone who works with any kind of textual resource in digital form” and any source written in any language can be published in TEI. However, all texts are cultural constructs and can be understood, analyzed, and consequently, encoded, in many different ways. Even though the TEI’s remit is global, different communities of practice have grown as part of the initiative, like the East Asian/Japanese SIG, the Music SIG, or TTHub project. These different communities of practice have developed and put to use different approaches, methodologies and technologies for encoding and publishing cultural objects.
 
-The conference topic – “Texts, languages, and communities”-- aims at highlighting the global outreach of the TEI together with its local adaptations and bringing us together as a diverse and multilingual community, where the exchange of experiences and shared learning will help us reflect on the texts we investigate, the languages we use, and the communities we create.
+The conference topic – “Texts, languages and communities”-- aims at highlighting the global outreach of the TEI together with its local adaptations and bringing us together as a diverse and multilingual community, where the exchange of experiences and shared learning will help us reflect on the texts we investigate, the languages we use, and the communities we create.
 
 ## Submissions
 
