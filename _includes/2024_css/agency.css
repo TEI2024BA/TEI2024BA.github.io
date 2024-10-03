@@ -1003,6 +1003,14 @@ table {
     font-family: inherit;
 }
 
+td {
+    padding-left: 1em;
+}
+
+tr:nth-child(odd) {
+    background-color: lightblue;
+}
+
 
 /*  Dropdown and Submenu */
 .dropdown-menu {

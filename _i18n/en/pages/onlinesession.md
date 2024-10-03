@@ -11,4 +11,4 @@
 | Erica Andreose; Giorgia Crosilla; Leonardo Zilli | 15:15 |
 | Q&A | 15:30 - 15:45 |
 
-\\* (Time in CEST, as most presenters are in that time zone)
+<small>\* (Time in CEST, as most presenters are in that time zone)</small>
