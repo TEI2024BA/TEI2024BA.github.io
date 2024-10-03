@@ -1,5 +1,5 @@
 
-| Presenters |    | Time (CEST)*      |
+| Autores |  Ponencia  | Horario (CEST)*      |
 | ------------- | -------- | ------------- |
 | Saniya Irfan | Developing a TEI-Encoded Digital Archive of 19th-Century Urdu Marsiya: Production and Challenges   | 13:00 |
 | Timo Frühwirth; Dimitra Grigoriou; Sandra Mayer |  Exploring the Potentials and Limitations of the TEI Guidelines in Editing Document Contents   | 13:15 |
