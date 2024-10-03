@@ -1004,12 +1004,17 @@ table {
 }
 
 td {
-    padding-left: 1em;
+    padding: 0.5em;
 }
 
-tr:nth-child(odd) {
+thead > tr {
+    background-color: lightslategray;
+}
+
+tr:nth-child(even) {
     background-color: lightblue;
 }
+
 
 
 /*  Dropdown and Submenu */
