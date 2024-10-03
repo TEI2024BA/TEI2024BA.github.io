@@ -1015,6 +1015,10 @@ tr:nth-child(even) {
     background-color: lightblue;
 }
 
+tr:nth-child(6){
+    background-color: lightcoral;
+}
+
 
 
 /*  Dropdown and Submenu */
