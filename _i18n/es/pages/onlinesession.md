@@ -9,7 +9,7 @@
 | BREAK |     | 14:15 - 15:00 |
 | John Westbrook |  	Encoding the Culinary: Modeling French Cooking for the Masses in a Late Nineteenth-Century Textbook   | 15:00 |
 | Erica Andreose; Giorgia Crosilla; Leonardo Zilli |  MetaScript: a framework proposal for screenplay encoding   | 15:15 |
-|  Diane Jakacki | 	‘I don’t even see the code:’ The Dynamic Table of Contexts – Optimizing our Encoded Texts for Web-based Reading and Analysis Environments | 15:30 |
+|  Diane Jakacki; Susan Brown | 	‘I don’t even see the code:’ The Dynamic Table of Contexts – Optimizing our Encoded Texts for Web-based Reading and Analysis Environments | 15:30 |
 | Q&A |     | 15:45 - 16:00 |
 
 <small>\* (Horario en CEST, local para la mayoría de los oradores)</small>
