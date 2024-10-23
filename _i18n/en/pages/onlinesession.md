@@ -1,4 +1,6 @@
 
+## Friday 25 October 2024
+
 | Authors |  Presentation  | Time (CEST)*      |
 | ------------- | -------- | ------------- |
 | Saniya Irfan | Developing a TEI-Encoded Digital Archive of 19th-Century Urdu Marsiya: Production and Challenges   | 13:00 |
