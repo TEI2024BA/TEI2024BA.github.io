@@ -3,20 +3,14 @@
       <li class="hidden">
           <a href="/"></a>
       </li>
-      <!-- <li>
-          <a class="page-scroll" href="{% tl agenda %}">Agenda</a>
-      </li> -->
-      <!-- <li>
-        <a class="page-scroll" href="{% tl registration %}">{% t navbar.registration %}</a>
-    </li> -->
       <li>
         <a class="dropdown-toggle navbar-button" id="ciDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
           {% t navbar.info %}
         </a>
         <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="ciDropdown" >
-          <li>
+          <!-- <li>
             <a href="{% tl cfp %}" class="dropdown-item">{% t navbar.cfp %}</a>
-          </li>
+          </li> -->
           <li>
             <a class="dropdown-item" href="{% tl dates %}">{% t navbar.dates %}</a>
           </li>
@@ -53,14 +47,25 @@
           </li>
         </ul>
       </li>
-      <!-- <li>
-        <a href="{% tl registration %}" class="navbar-button">{% t navbar.registration %}</a>
-      </li> -->
       <li>
-        <a href="{% tl onlinesession %}" class="navbar-button">{% t navbar.onlinesession %}</a>
+        <a href="{% tl outcomes %}" class="navbar-button">{% t navbar.outcomes %}</a>
       </li>
       <li>
-        <a href="{% tl programme %}" class="navbar-button">{% t navbar.programme %}</a>
+        <a class="dropdown-toggle navbar-button" id="sessionDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+            {% t navbar.archive %}
+          </a>
+          <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="sessionDropdown" >
+            <li>
+                <a href="{% tl cfp %}" class="dropdown-item">{% t navbar.cfp %}</a>
+            </li>
+            <li>
+                <a href="{% tl onlinesession %}" class="navbar-button">{% t navbar.onlinesession %}</a>
+            </li>
+            <li>
+                <a href="/pdf/tei2024_sessions.pdf" class="navbar-button">{% t navbar.programme %}</a>
+            </li>
+          </ul>
+
       </li>
       <li>
           <a href="{% tl team %}" class="navbar-button">{% t navbar.team %}</a>
