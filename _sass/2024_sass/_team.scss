@@ -101,20 +101,6 @@ h1.team-h1 {
   padding: 5px 0px 0px 0px;
 }
 
-.team-photo {
-  border-radius: 50%;
-  text-align: center;
-  margin: auto;
-  max-width: 100%;
-  height: auto;
-  transition: 0.1s transform ease-in-out;
-}
-
-.team-photo:hover {
-  transform: scale(0.9);
-  cursor: pointer;
-}
-
 @media (max-width:1300px){
   .team-container {
     max-width: 850px;
