@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html>
+
+  <style type="text/css">
+    /*INCLUDE MAIN CSS FILE*/
+    
+    .black-frame {
+  overflow: hidden;
+  background: white;
+  box-sizing: border-box;
+  padding: 5%;
+  margin: 2em auto;
+  border: 1px solid #eee; }
+
+.venue-top {
+  padding-top: 50px; }
+
+.venue-map iframe {
+  height: 60vh;
+  width: 100%; }
+
+.icon-about img {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  margin-top: 15px; }
+
+@media screen and (max-width: 760px) {
+  .venue-map iframe {
+    height: 45vh; } }
+.page-not-found h1 {
+  padding-top: 30vh;
+  font-size: 180%; }
+.page-not-found p {
+  font-size: 120%; }
+.page-not-found h1, .page-not-found h2, .page-not-found h3, .page-not-found p {
+  text-align: center; }
+
+.agenda {
+  table-layout: fixed;
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  /* Column widths are based on these cells */ }
+  .agenda td {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-overflow: ellipsis; }
+  .agenda .agenda-time {
+    width: 40%; }
+  .agenda .agenda-actiity {
+    width: 60%; }
+  .agenda th, .agenda td {
+    border: 1px solid #00283c;
+    font-size: 120%; }
+  .agenda th {
+    background: #00283c;
+    color: white;
+    letter-spacing: 1px; }
+  .agenda td {
+    text-align: center;
+    font-size: 110%; }
+    .agenda td a {
+      color: #ff6738;
+      text-decoration: none; }
+    .agenda td b {
+      color: #ff6738; }
+  .agenda td + td {
+    text-align: left;
+    padding-left: 10px; }
+
+@media screen and (max-width: 760px) {
+  .agenda .agenda-time {
+    width: 40%; }
+  .agenda .agenda-actiity {
+    width: 60%; }
+  .agenda td, .agenda th {
+    font-size: 100%; }
+  .agenda td {
+    padding-left: 0px; }
+  .agenda td + td {
+    padding-left: 10px; } }
+h1.team-h1 {
+  position: relative;
+  text-align: left;
+  text-shadow: 2px 2px black;
+  background-color: #3746d9;
+  color: white;
+  padding: 10px;
+  width: 100%; }
+
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
+
+.cf:after {
+  clear: both; }
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+  *zoom: 1; }
+
+.team-container {
+  max-width: 1200px;
+  margin: 30px auto 30px auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; }
+  .team-container *, .team-container *:before, .team-container *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box; }
+
+.cf.team-container.team-container-top.black-frame:nth-of-type(even) {
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 5em;
+  margin-bottom: 5em; }
+
+.cf.team-container.team-container-top.black-frame:nth-of-type(odd) {
+  padding-top: 1em;
+  margin-top: 4em;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  padding-top: 0; }
+
+.team-member {
+  padding: 10px 20px 10px 20px;
+  width: 25%;
+  text-align: center;
+  float: left; }
+
+.team-member:last-child {
+  margin-right: 0; }
+
+.team-member span, .team-member h3 {
+  font-family: sans-serif;
+  letter-spacing: -1px; }
+
+.team-member h3 {
+  color: SlateGray;
+  margin: 5px 0px 0px 0px; }
+
+.email {
+  color: #ff805b; }
+
+.team-member span {
+  display: block;
+  padding: 5px 0px 0px 0px; }
+
+@media (max-width: 1300px) {
+  .team-container {
+    max-width: 850px; } }
+@media (max-width: 1000px) {
+  .team-container {
+    max-width: 700px; } }
+/* code for phone layout */
+@media (max-width: 760px) {
+  .team-member {
+    padding: 0;
+    float: none;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    text-align: center; }
+
+  .team-container {
+    margin: 50px 10px 10px 10px; } }
+.event {
+  padding: 5%;
+  margin: 100px 15vw 60px 15vw; }
+  .event img {
+    width: 100%; }
+  .event a {
+    color: darkblue; }
+  .event h2, .event h3, .event ol, .event p {
+    color: black;
+    text-align: left; }
+  .event p, .event ol, .event ul {
+    font-size: 120%;
+    max-width: 80ch;
+    text-align: justify; }
+  .event h1 {
+    margin: 0 0 1em 0;
+    text-shadow: 2px 2px black;
+    background-color: #3746d9;
+    color: white;
+    padding: 5px 5px 5px 10px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+    width: 90%; }
+  .event li {
+    margin: 0 0 0.5em 0; }
+
+@media screen and (max-width: 1200px) {
+  .event {
+    margin: 100px 15vw 60px 15vw; } }
+@media screen and (max-width: 760px) {
+  .venue-map iframe {
+    height: 45vh; }
+
+  .event {
+    margin: 80px 10px 10px 10px; }
+
+  h1 {
+    font-size: 130%; }
+
+  h2 {
+    font-size: 120%; }
+
+  p, ol, li {
+    font-size: 100%; } }
+/*form for contact me */
+.contact form {
+  background-color: rgba(255, 255, 255, 0.9);
+  max-width: 600px;
+  margin: auto auto 50px auto;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  padding: 15px;
+  margin-top: 140px; }
+.contact input, .contact textarea {
+  font-size: 110%;
+  display: block;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  margin-bottom: 5px;
+  resize: none;
+  width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; }
+.contact h3 {
+  color: darkslategrey; }
+.contact a {
+  color: darkcyan; }
+@media screen and (max-width: 1200px) {
+  .contact .more-top-body {
+    margin-top: 100px; } }
+@media screen and (max-width: 760px) {
+  .contact form {
+    margin: 50px 5% 50px 5%; } }
+
+  </style>
+  
+  <!-- jQuery Version 1.11.0 -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/jquery-1.11.0.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/jquery.easing.min.js"></script>
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/classie.js"></script>
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/cbpAnimatedHeader.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/agency.js"></script>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Call for Proposals</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Your description
+">
+    <link rel="canonical" href="http://localhost:4000/Vault/MembersMeetings/2024/cfp">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Call for Proposals | TEI 2024 Buenos Aires</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Call for Proposals" />
+<meta property="og:locale" content="es" />
+<meta name="description" content="Your description" />
+<meta property="og:description" content="Your description" />
+<link rel="canonical" href="http://localhost:4000/Vault/MembersMeetings/2024/es/cfp" />
+<meta property="og:url" content="http://localhost:4000/Vault/MembersMeetings/2024/es/cfp" />
+<meta property="og:site_name" content="TEI 2024 Buenos Aires" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Call for Proposals" />
+<meta name="google-site-verification" content="googleXXXXXXXXXXXXXXXX.html" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Your description","headline":"Call for Proposals","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/Vault/MembersMeetings/2024/es/%7B%7B%20site.baseurl%7D%7D/css/2024_style/img/icon-large.png"}},"url":"http://localhost:4000/Vault/MembersMeetings/2024/es/cfp"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <!-- <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/style.css"> -->
+    <link rel="stylesheet" href="/Vault/MembersMeetings/2024/es/css/2024_style/style.css">
+
+    <!--Google Analytics SCRIPT-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-xxxxxxxx-x', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!--Google Analytics SCRIPT END-->
+
+    <!--Remove image dragging -->
+    <BODY ondragstart="return false;" ondrop="return false;">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/font-awesome/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/font-awesome/css/brands.min.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- WEBSITE ICON IN BROWSER -->
+    <link rel="icon" type="image/png" href="/css/2024_style/img/icon.ico">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="/Vault/MembersMeetings/2024/es/">TEI 2024</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  <ul class="nav navbar-nav navbar-right">
+      <li class="hidden">
+          <a href="/"></a>
+      </li>
+      <li>
+        <a class="dropdown-toggle navbar-button" id="ciDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+          Información
+        </a>
+        <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="ciDropdown" >
+          <!-- <li>
+            <a href="/Vault/MembersMeetings/2024/es/cfp" class="dropdown-item">Llamado a Envíos</a>
+          </li> -->
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/dates">Fechas Importantes</a>
+          </li>
+          <li>
+            <a class="dropdown-item dropdown-toggle" id="placeDropdown" role="button" aria-expanded="false" aria-haspopup="true" onclick="">
+              Lugar
+            </a>
+            <ul class="dropdown-menu dropdown-submenu" aria-labelledby="placeDropdown" >
+              <li>
+                <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/city">Ciudad</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/venue">Sede</a>
+              </li>  
+              <li>
+                <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/hotels">Hoteles</a>
+              </li>  
+            </ul>
+          </li>
+          <!-- <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/cfp">Llamado a Envíos</a>
+          </li>   -->
+          <!-- <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/fees">Precio Inscripción</a>
+          </li>   -->
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/bursaries">Becas</a>
+          </li>  
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/coc">Código de conducta</a>
+          </li>  
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/es/registration" class="navbar-button">Inscripción</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/Vault/MembersMeetings/2024/es/outcomes" class="navbar-button">Resultados</a>
+      </li>
+      <li>
+        <a class="dropdown-toggle navbar-button" id="sessionDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+            Archivo
+          </a>
+          <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="sessionDropdown" >
+            <li>
+                <a href="/Vault/MembersMeetings/2024/es/cfp" class="dropdown-item">Llamado a Envíos</a>
+            </li>
+            <li>
+                <a href="/Vault/MembersMeetings/2024/es/onlinesession" class="navbar-button">Sesión Online</a>
+            </li>
+            <li>
+                <a href="/pdf/tei2024_sessions.pdf" class="navbar-button">Programa</a>
+            </li>
+          </ul>
+
+      </li>
+      <li>
+          <a href="/Vault/MembersMeetings/2024/es/team" class="navbar-button">Equipo</a>
+      </li>
+      <li>
+          <a href="/Vault/MembersMeetings/2024/es/contact" class="navbar-button">Contacto</a>
+      </li>
+      <li>
+    
+        
+            
+            <a class="navbar-buttton" href="/Vault/MembersMeetings/2024/cfp"><i class="fa fa-language" style="color: white;"></i>    English</a>
+            
+        
+    
+        
+    
+    
+</li>
+          
+  </ul>
+</div>
+
+            
+            
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+<!--
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/about">About the Conference</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/agenda">Agenda</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/bursaries">bursaries</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/cfp">Call for Proposals</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/city">About the City</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/coc">Code of Conduct</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/contact">Contact</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/dates">Dates</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/faqs">Frequently Asked Questions (FAQ)</a>
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/fees">Fees</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/hotels">Hotels</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/">TEI Conference 2024</a>
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/onlinesession">Online Session</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/outcomes">outcomes</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/programme">programme</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/registration">registration</a>
+        
+          
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/team">Team</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/venue">Venue</a>
+        
+          
+        
+ -->
+
+
+        <!--background color-->
+<script type="text/javascript">
+    document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+</script>
+  
+
+<div class="black-frame event">
+    <h1 class="title">Llamado a Envíos</h1>
+    
+    <p>Nos complace anunciar el llamado a presentaciones, pósters, demos, paneles y talleres para <strong>“Textos, lenguas y comunidades - TEI 2024”</strong>, el vigésimo cuarto congreso y reunión general anual de la Text Encoding Initiative, que se llevará a cabo en persona del 7 al 11 de octubre de 2024 en la Universidad del Salvador (USAL), Buenos Aires, Argentina.</p>
+
+<h3 id="las-propuestas-deben-enviarse-desde-conftool-hay-tiempo-hasta-el-10-de-mayo">Las propuestas deben enviarse desde <strong><a href="https://www.conftool.pro/tei2024/">ConfTool</a></strong>. Hay tiempo hasta el <u>10 de mayo</u>.**</h3>
+
+<h2 id="tema-del-congreso">Tema del congreso</h2>
+
+<p>Las Guidelines de la TEI están dirigidas a cualquier persona que trabaje con cualquier tipo de recurso textual en formato digital, señalando que cualquier fuente escrita en cualquier idioma puede ser publicada utilizando la TEI. Sin embargo, como sabemos todo texto es una construcción cultural y, como tal, puede ser comprendido, analizado y, en consecuencia, codificado de muchas  y diferentes maneras. Así, aunque el alcance de la TEI es global, por esta razón diferentes comunidades de práctica han surgido dentro de la comunidad de la TEI, como el East Asian/Japanese SIG, el Music SIG o el proyecto TTHub. Estas diferentes comunidades de práctica han desarrollado y puesto en uso diferentes enfoques, metodologías y tecnologías para la codificación y publicación de objetos culturales.</p>
+
+<p>El tema del congreso - “Textos, lenguas y comunidades” - tiene como objetivo destacar el alcance global de la TEI junto con sus adaptaciones locales y reunirnos como una comunidad diversa y multilingüe, donde el intercambio de experiencias y el aprendizaje compartido nos ayuden a reflexionar sobre los textos que investigamos, las lenguas que usamos y las comunidades que creamos.</p>
+
+<h2 id="propuestas">Propuestas</h2>
+
+<p>El congreso recibirá contribuciones de todos aquellos que estén desarrollando o aplicando codificación en TEI a textos y artefactos culturales relacionados con campos que incluyen, pero no se limitan a música, literatura, historia, lingüística y arqueología.</p>
+
+<p>Estamos especialmente interesados ​​en recibir propuestas de todo tipo de participantes, incluidos jóvenes investigadores o académicos de carrera, profesores, programadores e ingenieros de software, curadores culturales y archivistas, bibliotecarios, así como estudiantes de posgrado y pregrado. Además, buscamos recibir propuestas de participantes que se inicien en la codificación de textos y quieran asistir por primera vez al congreso. Se ofrecerán becas para estudiantes argentinos, así como becas de viaje internacional ofrecidas por los consorcios de la TEI y MEI; se proporcionará más información sobre estas después del proceso de revisión.</p>
+
+<p>Los temas del congreso incluyen, pero no se limitan a el uso o aplicación de TEI en:</p>
+
+<ul>
+  <li>humanidades digitales</li>
+  <li>ediciones digitales</li>
+  <li>galerías/bibliotecas/archivos/museos</li>
+  <li>patrimonio intangible</li>
+  <li>bibliografías y estudios bibliográficos</li>
+  <li>catálogos y gestión de colecciones</li>
+  <li>estudio de culturas orales, historia oral</li>
+  <li>enseñanza y aprendizaje</li>
+  <li>recuperación de la información</li>
+  <li>enfoques de aprendizaje automático</li>
+  <li>análisis literario</li>
+</ul>
+
+<p>También estamos interesados ​​en:</p>
+
+<ul>
+  <li>codificación, publicación e investigación de corpus o recursos léxicos multilingües</li>
+  <li>pedagogías relacionadas con la codificación de textos</li>
+  <li>TEI en español</li>
+  <li>usos de la TEI en América Latina</li>
+  <li>análisis computacional de textos codificados</li>
+  <li>ontologías, archivos de autoridad y datos vinculados en codificación y descripción de textos, especialmente en casos de multilingüismo</li>
+  <li>mejores prácticas en enfoques para la codificación de textos</li>
+  <li>género y representación en TEI</li>
+  <li>TEI para publicación de revistas y libros electrónicos</li>
+  <li>anotación, marcado semántico y modelos para marcado colaborativo</li>
+  <li>visión por computadora</li>
+  <li>reconocimiento de texto manuscrito</li>
+  <li>potenciales casos de uso o aplicaciones de codificación de texto y música</li>
+  <li>aplicaciones innovadoras de la TEI</li>
+</ul>
+
+<p>Todas las presentaciones serán sometidas a revisión por pares ciegos dobles por varios miembros del comité de programa antes de su aceptación. Tengan en cuenta las fechas límite para el proceso de presentación detalladas en más abajo en Fechas importantes.<br />
+Finalizado el congreso se invitará a los autores de las presentaciones aceptadas a enviar trabajos a un número especial de la revista revisada por pares y de acceso abierto Journal of the Text Encoding Initiative. Los artículos enviados a la revista serán sometidos a una nueva ronda de revisión por pares, ya sea por miembros del Comité de Programa o por la comunidad en general, antes de su publicación.<br /></p>
+
+<h2 id="lenguas-del-congreso">Lenguas del congreso</h2>
+
+<p>Las propuestas deben enviarse en español o inglés. Habrá interpretación simultánea disponible para inglés a español y español a inglés para las conferencias plenarias.</p>
+
+<h2 id="directrices-de-presentación">Directrices de presentación</h2>
+<p>Cada presentación debe incluir un título, un resumen, hasta cinco palabras clave y una breve biografía para cada autor. Cada biografía no debe exceder las 300 caracteres y debe incluir la afiliación actual e intereses de investigación.</p>
+
+<p>Invitamos a los autores a enviar sus resúmenes en las dos lenguas del congreso (un resumen a continuación del otro), aunque esto no es obligatorio.</p>
+
+<ul>
+  <li>
+    <p>Se espera que las <strong>presentaciones extensas (long papers)</strong> versen sobre descripciones generales o detalles específicos de proyectos en curso o completados, presenten estudios de caso detallados o perspectivas elaboradas sobre las mejores prácticas en el campo, o proporcionen otros informes sobre temas relevantes para el congreso. Se dará a los oradores 30 minutos: 20 minutos para la presentación, 10 minutos para la discusión. Las propuestas no deben exceder las 500 palabras.</p>
+  </li>
+  <li>
+    <p>Las <strong>presentaciones breves (short papers)</strong> son adecuadas para presentar herramientas, plantear nuevas ideas y temas experimentales. Se dará a los oradores 15 minutos cada uno: 10 minutos para la presentación, 5 minutos para la discusión. Las propuestas no deben exceder las 300 palabras.</p>
+  </li>
+  <li>
+    <p>Se espera que los <strong>pósters</strong> informen sobre trabajos en etapas iniciales, presenten nuevos trabajos, proyectos o software, o ideas experimentales para retroalimentación por parte de la comunidad. Se dedicará una sesión de “poster slam” a presentaciones de pósters de 1 minuto cada una. Posteriormente, los presentadores de pósters tendrán la oportunidad de contar a las partes interesadas más sobre su proyecto durante la exposición de pósters, donde la audiencia puede navegar libremente. Las propuestas no deben exceder las 300 palabras.<br /></p>
+  </li>
+  <li>
+    <p>En las sesiones de <strong>demos</strong> se puede presentar el funcionamiento de un software o plataforma.  Se dará a los oradores 10 minutos cada uno: 10 minutos para la presentación, 5 minutos para la discusión. Las propuestas no deben exceder las 300 palabras.<br /></p>
+  </li>
+  <li>
+    <p>Los <strong>paneles</strong> son adecuados para enfoques coordinados o discusiones relacionadas con un solo tema. Las presentaciones deben describir el tema y la naturaleza del panel, junto con las principales tesis y objetivos de las contribuciones propuestas. Las sesiones de panel serán de 90 minutos que se pueden usar de manera flexible para incluir, por ejemplo, 3 presentaciones individuales seguidas de preguntas, o una mesa redonda. Las propuestas no deben exceder las 800 palabras. <br /></p>
+  </li>
+  <li><strong>Talleres previos a la conferencia de medio o día completo.</strong> Las propuestas deben incluir coordinadores, una descripción del objetivo del taller y su duración propuesta, así como sus requisitos logísticos y técnicos. Las propuestas no deben exceder las 800 palabras y deben incluir: <br /></li>
+  <li>Un breve esquema del tema propuesto<br /></li>
+  <li>La duración del taller o seminario propuesto (medio día, día completo)
+Cualquier requisito especial (por ejemplo, computadoras portátiles proporcionadas por los participantes, proyector, pizarra)</li>
+  <li>Una lista de profesores de taller propuestos con una breve biografía de cada uno</li>
+</ul>
+
+<p><strong>Grupos de Interés (SIG)</strong><br /></p>
+<ul>
+  <li>Los coordinadores de SIG interesados ​​en celebrar una reunión durante la conferencia deben comunicarse con los anfitriones locales para reservar una sala: <a href="hdlabconicet@gmail.com">hdlabconicet@gmail.com</a></li>
+</ul>
+
+<h2 id="información-adicional">Información adicional</h2>
+
+<p>El congreso se llevará a cabo en persona.</p>
+
+<p>La TEI planea celebrar su reunión general anual para sus miembros como parte de esta conferencia conjunta.</p>
+
+<p>Se anunciarán detalles adicionales sobre inscripción, alojamiento, etc., en el sitio web de la conferencia, la lista de correo de TEI, <a href="https://twitter.com/teiconsortium?lang=en">Twitter(X)</a> y <a href="https://web.facebook.com/groups/TEIconsortium/?_rdc=1&amp;_rdr">Facebook</a>.
+En caso de preguntas, no dude en contactarnos: <a href="hdlabconicet@gmail.com">hdlabconicet@gmail.com</a></p>
+
+    </div>
+
+
+        
+  </body>
+  <style>
+body {
+  position: absolute;
+  margin: 0;
+  min-height: 100%;
+  width: 100%;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+</style>
+
+<footer>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div>
+              <div><img src="/Vault/MembersMeetings/2024/css/2024_style/img/logos/by.svg"> </div>
+              <p><i class="fa fa-creative-commons"></i> Text Encoding Initiative, 2023</p>
+            </div>
+          </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    
+                      <li><a href="https://www.facebook.com/groups/TEIconsortium"><i class="fa fa-facebook"></i></a></li>
+                    
+                      <li><a href="https://twitter.com/TEIconsortium"><i class="fa fa-twitter"></i></a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-md-3">
+              Jekyll theme adapted from <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
+          </div>
+        </div>
+    </div>
+</footer>
+</html>

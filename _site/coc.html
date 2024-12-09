@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html>
+
+  <style type="text/css">
+    /*INCLUDE MAIN CSS FILE*/
+    
+    .black-frame {
+  overflow: hidden;
+  background: white;
+  box-sizing: border-box;
+  padding: 5%;
+  margin: 2em auto;
+  border: 1px solid #eee; }
+
+.venue-top {
+  padding-top: 50px; }
+
+.venue-map iframe {
+  height: 60vh;
+  width: 100%; }
+
+.icon-about img {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  margin-top: 15px; }
+
+@media screen and (max-width: 760px) {
+  .venue-map iframe {
+    height: 45vh; } }
+.page-not-found h1 {
+  padding-top: 30vh;
+  font-size: 180%; }
+.page-not-found p {
+  font-size: 120%; }
+.page-not-found h1, .page-not-found h2, .page-not-found h3, .page-not-found p {
+  text-align: center; }
+
+.agenda {
+  table-layout: fixed;
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  /* Column widths are based on these cells */ }
+  .agenda td {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-overflow: ellipsis; }
+  .agenda .agenda-time {
+    width: 40%; }
+  .agenda .agenda-actiity {
+    width: 60%; }
+  .agenda th, .agenda td {
+    border: 1px solid #00283c;
+    font-size: 120%; }
+  .agenda th {
+    background: #00283c;
+    color: white;
+    letter-spacing: 1px; }
+  .agenda td {
+    text-align: center;
+    font-size: 110%; }
+    .agenda td a {
+      color: #ff6738;
+      text-decoration: none; }
+    .agenda td b {
+      color: #ff6738; }
+  .agenda td + td {
+    text-align: left;
+    padding-left: 10px; }
+
+@media screen and (max-width: 760px) {
+  .agenda .agenda-time {
+    width: 40%; }
+  .agenda .agenda-actiity {
+    width: 60%; }
+  .agenda td, .agenda th {
+    font-size: 100%; }
+  .agenda td {
+    padding-left: 0px; }
+  .agenda td + td {
+    padding-left: 10px; } }
+h1.team-h1 {
+  position: relative;
+  text-align: left;
+  text-shadow: 2px 2px black;
+  background-color: #3746d9;
+  color: white;
+  padding: 10px;
+  width: 100%; }
+
+.cf:before,
+.cf:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */ }
+
+.cf:after {
+  clear: both; }
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+  *zoom: 1; }
+
+.team-container {
+  max-width: 1200px;
+  margin: 30px auto 30px auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; }
+  .team-container *, .team-container *:before, .team-container *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box; }
+
+.cf.team-container.team-container-top.black-frame:nth-of-type(even) {
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 5em;
+  margin-bottom: 5em; }
+
+.cf.team-container.team-container-top.black-frame:nth-of-type(odd) {
+  padding-top: 1em;
+  margin-top: 4em;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  padding-top: 0; }
+
+.team-member {
+  padding: 10px 20px 10px 20px;
+  width: 25%;
+  text-align: center;
+  float: left; }
+
+.team-member:last-child {
+  margin-right: 0; }
+
+.team-member span, .team-member h3 {
+  font-family: sans-serif;
+  letter-spacing: -1px; }
+
+.team-member h3 {
+  color: SlateGray;
+  margin: 5px 0px 0px 0px; }
+
+.email {
+  color: #ff805b; }
+
+.team-member span {
+  display: block;
+  padding: 5px 0px 0px 0px; }
+
+@media (max-width: 1300px) {
+  .team-container {
+    max-width: 850px; } }
+@media (max-width: 1000px) {
+  .team-container {
+    max-width: 700px; } }
+/* code for phone layout */
+@media (max-width: 760px) {
+  .team-member {
+    padding: 0;
+    float: none;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    text-align: center; }
+
+  .team-container {
+    margin: 50px 10px 10px 10px; } }
+.event {
+  padding: 5%;
+  margin: 100px 15vw 60px 15vw; }
+  .event img {
+    width: 100%; }
+  .event a {
+    color: darkblue; }
+  .event h2, .event h3, .event ol, .event p {
+    color: black;
+    text-align: left; }
+  .event p, .event ol, .event ul {
+    font-size: 120%;
+    max-width: 80ch;
+    text-align: justify; }
+  .event h1 {
+    margin: 0 0 1em 0;
+    text-shadow: 2px 2px black;
+    background-color: #3746d9;
+    color: white;
+    padding: 5px 5px 5px 10px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+    width: 90%; }
+  .event li {
+    margin: 0 0 0.5em 0; }
+
+@media screen and (max-width: 1200px) {
+  .event {
+    margin: 100px 15vw 60px 15vw; } }
+@media screen and (max-width: 760px) {
+  .venue-map iframe {
+    height: 45vh; }
+
+  .event {
+    margin: 80px 10px 10px 10px; }
+
+  h1 {
+    font-size: 130%; }
+
+  h2 {
+    font-size: 120%; }
+
+  p, ol, li {
+    font-size: 100%; } }
+/*form for contact me */
+.contact form {
+  background-color: rgba(255, 255, 255, 0.9);
+  max-width: 600px;
+  margin: auto auto 50px auto;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  padding: 15px;
+  margin-top: 140px; }
+.contact input, .contact textarea {
+  font-size: 110%;
+  display: block;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  margin-bottom: 5px;
+  resize: none;
+  width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; }
+.contact h3 {
+  color: darkslategrey; }
+.contact a {
+  color: darkcyan; }
+@media screen and (max-width: 1200px) {
+  .contact .more-top-body {
+    margin-top: 100px; } }
+@media screen and (max-width: 760px) {
+  .contact form {
+    margin: 50px 5% 50px 5%; } }
+
+  </style>
+  
+  <!-- jQuery Version 1.11.0 -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/jquery-1.11.0.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/jquery.easing.min.js"></script>
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/classie.js"></script>
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/cbpAnimatedHeader.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/Vault/MembersMeetings/2024/css/2024_style/js/agency.js"></script>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Code of Conduct</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Your description
+">
+    <link rel="canonical" href="http://localhost:4000/Vault/MembersMeetings/2024/coc">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Code of Conduct | TEI 2024 Buenos Aires</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Code of Conduct" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Your description" />
+<meta property="og:description" content="Your description" />
+<link rel="canonical" href="http://localhost:4000/Vault/MembersMeetings/2024/coc" />
+<meta property="og:url" content="http://localhost:4000/Vault/MembersMeetings/2024/coc" />
+<meta property="og:site_name" content="TEI 2024 Buenos Aires" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Code of Conduct" />
+<meta name="google-site-verification" content="googleXXXXXXXXXXXXXXXX.html" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Your description","headline":"Code of Conduct","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/Vault/MembersMeetings/2024/%7B%7B%20site.baseurl%7D%7D/css/2024_style/img/icon-large.png"}},"url":"http://localhost:4000/Vault/MembersMeetings/2024/coc"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <!-- <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/style.css"> -->
+    <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/style.css">
+
+    <!--Google Analytics SCRIPT-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-xxxxxxxx-x', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!--Google Analytics SCRIPT END-->
+
+    <!--Remove image dragging -->
+    <BODY ondragstart="return false;" ondrop="return false;">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/font-awesome/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="/Vault/MembersMeetings/2024/css/2024_style/font-awesome/css/brands.min.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- WEBSITE ICON IN BROWSER -->
+    <link rel="icon" type="image/png" href="/css/2024_style/img/icon.ico">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="/Vault/MembersMeetings/2024/">TEI 2024</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  <ul class="nav navbar-nav navbar-right">
+      <li class="hidden">
+          <a href="/"></a>
+      </li>
+      <li>
+        <a class="dropdown-toggle navbar-button" id="ciDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+          Information
+        </a>
+        <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="ciDropdown" >
+          <!-- <li>
+            <a href="/Vault/MembersMeetings/2024/cfp" class="dropdown-item">Call for Proposals</a>
+          </li> -->
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/dates">Important Dates</a>
+          </li>
+          <li>
+            <a class="dropdown-item dropdown-toggle" id="placeDropdown" role="button" aria-expanded="false" aria-haspopup="true" onclick="">
+              Location
+            </a>
+            <ul class="dropdown-menu dropdown-submenu" aria-labelledby="placeDropdown" >
+              <li>
+                <a class="dropdown-item" href="/Vault/MembersMeetings/2024/city">City</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/Vault/MembersMeetings/2024/venue">Venue</a>
+              </li>  
+              <li>
+                <a class="dropdown-item" href="/Vault/MembersMeetings/2024/hotels">Accommodation</a>
+              </li>  
+            </ul>
+          </li>
+          <!-- <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/cfp">Call for Proposals</a>
+          </li>   -->
+          <!-- <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/fees">Fees</a>
+          </li>   -->
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/bursaries">Bursaries</a>
+          </li>  
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/coc">Code of Conduct</a>
+          </li>  
+          <li>
+            <a class="dropdown-item" href="/Vault/MembersMeetings/2024/registration" class="navbar-button">Registration</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/Vault/MembersMeetings/2024/outcomes" class="navbar-button">Outcomes</a>
+      </li>
+      <li>
+        <a class="dropdown-toggle navbar-button" id="sessionDropdown" role="button" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" >
+            Archive
+          </a>
+          <ul class="dropdown-menu dropdown-menu-left" aria-labelledby="sessionDropdown" >
+            <li>
+                <a href="/Vault/MembersMeetings/2024/cfp" class="dropdown-item">Call for Proposals</a>
+            </li>
+            <li>
+                <a href="/Vault/MembersMeetings/2024/onlinesession" class="navbar-button">Online Session</a>
+            </li>
+            <li>
+                <a href="/pdf/tei2024_sessions.pdf" class="navbar-button">Program</a>
+            </li>
+          </ul>
+
+      </li>
+      <li>
+          <a href="/Vault/MembersMeetings/2024/team" class="navbar-button">Team</a>
+      </li>
+      <li>
+          <a href="/Vault/MembersMeetings/2024/contact" class="navbar-button">Contact</a>
+      </li>
+      <li>
+    
+        
+    
+        
+            
+            <a class="navbar-buttton" href="/Vault/MembersMeetings/2024/es/coc"><i class="fa fa-language" style="color: white;"></i> Español</a>
+            
+        
+    
+    
+</li>
+          
+  </ul>
+</div>
+
+            
+            
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+<!--
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/about">About the Conference</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/agenda">Agenda</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/bursaries">bursaries</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/cfp">Call for Proposals</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/city">About the City</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/coc">Code of Conduct</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/contact">Contact</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/dates">Dates</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/faqs">Frequently Asked Questions (FAQ)</a>
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/fees">Fees</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/hotels">Hotels</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/">TEI Conference 2024</a>
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/onlinesession">Online Session</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/outcomes">outcomes</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/programme">programme</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/registration">registration</a>
+        
+          
+        
+          
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/team">Team</a>
+        
+          <a class="page-link" href="/Vault/MembersMeetings/2024/venue">Venue</a>
+        
+          
+        
+ -->
+
+
+        <!--background color-->
+<script type="text/javascript">
+    document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+</script>
+  
+
+<div class="black-frame event">
+    <h1 class="title">Code of Conduct</h1>
+    
+    
+<p>For all participants in TEI conversations including social media, mailing lists, meetings, and conferences<br />
+Released for public comment: April 2018<br /></p>
+
+<p>Approved by the TEI-C Board of Directors: May 2018<br /></p>
+
+<p><strong>Introduction</strong><br />
+This code of conduct outlines our expectations of participants within the TEI community as well as steps for reporting unacceptable behaviour.<br /></p>
+
+<p>We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honoured. Anyone who violates this code of conduct may be banned from the community, including from attendance at conference and members’ meetings, and from participation in competitions or awards.
+<br />
+<br />
+<strong>Diversity Statement</strong><br />
+We encourage everyone to participate in the TEI Consortium (TEI-C) community and its activities, and are committed to building a community for all. We know that the best problem-solving and critical thinking happens when people with a wide array of experiences and perspectives come together to work in comfort and safety as peers. We therefore expect participants in the TEI-C community to help create thoughtful and respectful environments where that interaction can take place. We honour diversity in age, gender, gender identity or expression, physical and mental ability, culture, ethnicity, educational level, language, national origin, political belief, profession, race, religion, sexual orientation, socioeconomic status, size, and technical ability among others.<br /><br /></p>
+
+<p>Our TEI Consortium community strives to:<br /></p>
+
+<p><strong>Be friendly and patient</strong>: We come from different backgrounds, career stages, and levels of familiarity with the TEI and the TEI community. We listen as much as we speak, and to remember that colleagues may have expertise we are not aware of. We encourage and yield the floor to underrepresented viewpoints. We use welcoming language, for example honouring pronoun preferences and using gender-neutral collective nouns (i.e., chairperson). We accept critique graciously and offer it constructively. We give credit where it is due. We seek ways to make our physical and virtual spaces more universally accessible. We stay alert to the welfare of those around us.<br />
+<strong>Be welcoming</strong>: We strive to be a community that welcomes and supports people of all backgrounds and identities. This community includes but is not limited to members of all ages, genders, gender identities or expressions, physical and mental abilities, cultures, ethnicities, educational levels, languages, national origins, political beliefs, professions, races, religions, sexual orientations, socioeconomic statuses, sizes, and technical abilities.<br />
+<strong>Be considerate</strong>:  We are a global community and should be mindful that we might not be communicating in someone else’s primary language. Colloquialisms, specific cultural references, and humor may prevent someone else from understanding the conveyed message.<br />
+<strong>Be respectful</strong>: Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.<br />
+<strong>Be careful in the words that you choose</strong>: We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behaviour are not acceptable. This includes but is not limited to: violent threats or language directed against another person; discriminatory jokes and language; posting sexually explicit or violent material; posting (or threatening to post) other people’s personally identifying information (“doxing”); personal insults, especially those using racist or sexist terms; unwelcome sexual attention; advocating for, or encouraging, any of the above behaviour. In general: if someone asks you to stop, then stop.<br />
+<strong>Be constructive in seeking to resolve differences when we disagree</strong>: Disagreements, philosophical, technical, etc., happen all the time. The fruits of these disagreements could yield new ways of seeing and thinking. The strength of our community comes from its diversity. Not being unable to understand why someone holds a viewpoint doesn’t mean that they are wrong. Assigning blame is not constructive. Instead let’s focus on helping each other to resolve issues and learn from mistakes.<br />
+<strong>Be an ethical scholar</strong>: We are an inherently collaborative community that learns from and relies on each other’s scholarship and contributions to the TEI. We need to make sure we properly acknowledge and credit the contributions of others in our own work.<br />
+This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment, and our goals. We expect it to be followed in spirit as much as in the letter.<br /><br /></p>
+
+<p><strong>Reporting Issues</strong><br />
+When a participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, do our best to right the wrong, and where necessary contact authorities external to the TEI Consortium.<br /></p>
+
+<p>If you experience or witness unacceptable behavior or have any other concerns about the conduct of members of our community that you are uncomfortable addressing directly, please report it by contacting us via the <a href="http://www.tei-c.org/About/board.xml">Chair or Secretary or another member of the TEI-C Board of Directors</a>. You can also contact any member of the local organizing committee. <br />
+All reports will be handled with respect and discretion. In your report please include:<br /></p>
+
+<p>-Your contact information.<br />
+-Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.<br />
+-Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive, a Twitter or public Facebook post), please include a screenshot and a link to the post.<br />
+-Any additional information that may be helpful.<br /></p>
+
+<p>After filing a report, a member of the TEI-C Board of Directors will contact you personally. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. A representative will then review the incident, follow up with any additional questions, and make a decision, with input from the Chair of the TEI-C Board of Directors, as to how to respond. All due care, with chance for appeal, will be taken in reaching any decision. We will respect confidentiality requests for the purpose of protecting victims of abuse.<br /></p>
+
+<p>Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the representative may take any action they deem appropriate, up to and including a permanent ban from our community.<br /><br /></p>
+
+<p><strong>Acknowledgments</strong><br />
+This code of conduct was authored by Pip Willcox with input from the TEI-C Board of Directors and the TEI community at-large. It is based on Twitter Engineering’s Open Source Code of Conduct, which in turn is based on the Open Code of Conduct v1.0 from the TODOGroup. We have additionally borrowed from the Digital Library Federation’s Code of Conduct. We are thankful for their work and all the communities who have paved the way with codes of conduct.<br /></p>
+
+<p>We thank you, all the members of our community whose work uses TEI Guidelines, who share their work through our list and conferences, and who volunteer their time to support the work of the TEI-C including our officers, and Council and Board members.<br /></p>
+
+
+    </div>
+
+
+        
+  </body>
+  <style>
+body {
+  position: absolute;
+  margin: 0;
+  min-height: 100%;
+  width: 100%;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+</style>
+
+<footer>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div>
+              <div><img src="/Vault/MembersMeetings/2024/css/2024_style/img/logos/by.svg"> </div>
+              <p><i class="fa fa-creative-commons"></i> Text Encoding Initiative, 2023</p>
+            </div>
+          </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    
+                      <li><a href="https://www.facebook.com/groups/TEIconsortium"><i class="fa fa-facebook"></i></a></li>
+                    
+                      <li><a href="https://twitter.com/TEIconsortium"><i class="fa fa-twitter"></i></a></li>
+                    
+                </ul>
+            </div>
+            <div class="col-md-3">
+              Jekyll theme adapted from <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
+          </div>
+        </div>
+    </div>
+</footer>
+</html>
